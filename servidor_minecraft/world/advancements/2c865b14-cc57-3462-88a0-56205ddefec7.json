@@ -3783,9 +3783,45 @@
     },
     "done": true
   },
+  "aether:icestone": {
+    "criteria": {
+      "icestone": "2025-03-21 23:30:35 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/zanite_chestplate_repairing": {
     "criteria": {
       "has_zanite_chestplate": "2025-03-21 23:24:25 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/icestone_wall_from_icestone_stonecutting": {
+    "criteria": {
+      "has_icestone": "2025-03-21 23:30:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/icestone_slab": {
+    "criteria": {
+      "has_icestone": "2025-03-21 23:30:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/icestone_wall": {
+    "criteria": {
+      "has_icestone": "2025-03-21 23:30:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/quicksoil_glass_enchanting": {
+    "criteria": {
+      "has_quicksoil": "2025-03-21 23:29:20 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/icestone_stairs_from_icestone_stonecutting": {
+    "criteria": {
+      "has_icestone": "2025-03-21 23:30:35 +0000"
     },
     "done": true
   },
@@ -3795,9 +3831,21 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/icestone_slab_from_icestone_stonecutting": {
+    "criteria": {
+      "has_icestone": "2025-03-21 23:30:35 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/poison_dart": {
     "criteria": {
       "has_golden_dart": "2025-03-21 23:24:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/icestone_stairs": {
+    "criteria": {
+      "has_icestone": "2025-03-21 23:30:35 +0000"
     },
     "done": true
   },
