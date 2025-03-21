@@ -3746,6 +3746,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/chainmail_leggings_repairing": {
+    "criteria": {
+      "has_chainmail_leggings": "2025-03-21 17:52:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_blue_dye": "2025-03-21 18:39:54 +0000"
@@ -3821,12 +3827,6 @@
   "minecraft:recipes/building_blocks/dye_blue_bed": {
     "criteria": {
       "has_needed_dye": "2025-03-21 18:39:54 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/chainmail_leggings_repairing": {
-    "criteria": {
-      "has_chainmail_leggings": "2025-03-21 17:52:59 +0000"
     },
     "done": true
   },
