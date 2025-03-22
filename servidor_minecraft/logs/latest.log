@@ -730,3 +730,20 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [22Mar2025 19:24:11.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> bien ahi gil
 [22Mar2025 19:24:17.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> pero hace la hoguera
 [22Mar2025 19:24:25.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> bien ahi gil
+[22Mar2025 19:28:58.902] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PlagaXNZ lost connection: Disconnected
+[22Mar2025 19:28:58.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ left the game
+[22Mar2025 19:28:58.903] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 116e9c76-7157-3f7d-8106-557b209a5b07
+[22Mar2025 19:28:58.906] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PlagaXNZ
+[22Mar2025 19:29:05.133] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PlagaXNZ[/127.71.30.2:35093] logged in with entity id 21175 at (-1260.237500011921, 71.0, -3054.1988161352083)
+[22Mar2025 19:29:05.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ joined the game
+[22Mar2025 19:29:05.161] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 116e9c76-7157-3f7d-8106-557b209a5b07
+[22Mar2025 19:29:05.465] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of PlagaXNZ (18)
+[22Mar2025 19:29:05.465] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to PlagaXNZ
+[22Mar2025 19:29:34.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> e gil lo vas a poder dejar prendido el server cuando te vayas??
+[22Mar2025 19:29:58.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> la cosa es que tendria que dejar la computadora prendida
+[22Mar2025 19:30:27.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> podria ver si lo puedo hacer desde el telefono
+[22Mar2025 19:31:57.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> e gil tenes un diamante o un tocadiscos
+[22Mar2025 19:32:02.646] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[22Mar2025 19:32:57.443] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[22Mar2025 19:33:18.724] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6289ms or 125 ticks behind
+[22Mar2025 19:34:18.420] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
