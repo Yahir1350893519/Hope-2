@@ -523,3 +523,12 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 ]
 [22Mar2025 18:09:01.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PlagaXNZ moved wrongly!
 [22Mar2025 18:13:25.698] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[22Mar2025 19:08:02.039] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jukusting[/127.113.44.68:35481] logged in with entity id 12105 at (-2187.5370601276722, 69.0, 4031.040393264395)
+[22Mar2025 19:08:02.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting joined the game
+[22Mar2025 19:08:02.075] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 2c865b14-cc57-3462-88a0-56205ddefec7
+[22Mar2025 19:08:05.165] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jukusting (18)
+[22Mar2025 19:08:05.167] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jukusting
+[22Mar2025 19:08:16.337] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[22Mar2025 19:08:35.208] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3873ms or 77 ticks behind
+[22Mar2025 19:10:38.338] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[22Mar2025 19:10:59.849] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
