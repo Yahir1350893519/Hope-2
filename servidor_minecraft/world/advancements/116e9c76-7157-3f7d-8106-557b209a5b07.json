@@ -15,6 +15,7 @@
       "minecraft:sunflower_plains": "2025-03-18 04:14:19 +0000",
       "minecraft:birch_forest": "2025-03-18 19:02:54 +0000",
       "minecraft:windswept_hills": "2025-03-20 00:06:12 +0000",
+      "minecraft:savanna_plateau": "2025-03-22 22:01:31 +0000",
       "minecraft:beach": "2025-03-18 03:59:02 +0000",
       "minecraft:dark_forest": "2025-03-22 04:41:13 +0000",
       "minecraft:river": "2025-03-18 03:58:54 +0000",
@@ -34,6 +35,7 @@
       "minecraft:flower_forest": "2025-03-18 15:14:29 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-18 04:20:42 +0000",
       "minecraft:meadow": "2025-03-18 23:46:22 +0000",
+      "minecraft:savanna": "2025-03-22 21:59:15 +0000",
       "minecraft:plains": "2025-03-18 04:11:46 +0000"
     },
     "done": false
@@ -1397,7 +1399,9 @@
   },
   "recrafted_creatures:unfamiliar_fauna": {
     "criteria": {
+      "zebra": "2025-03-22 22:09:06 +0000",
       "owl": "2025-03-18 19:45:11 +0000",
+      "giraffe": "2025-03-22 22:01:06 +0000",
       "marmot": "2025-03-19 04:46:45 +0000",
       "beaver": "2025-03-19 00:20:44 +0000",
       "mammoth": "2025-03-18 19:31:35 +0000"
@@ -2069,7 +2073,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-03-18 22:47:06 +0000",
       "minecraft:soul_sand_valley": "2025-03-18 22:44:10 +0000",
-      "minecraft:nether_wastes": "2025-03-19 02:48:10 +0000"
+      "minecraft:nether_wastes": "2025-03-19 02:48:10 +0000",
+      "minecraft:warped_forest": "2025-03-22 23:05:58 +0000"
     },
     "done": false
   },
@@ -4213,6 +4218,31 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
     "criteria": {
       "has_iron_ore": "2025-03-22 20:17:00 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-03-22 22:08:54 +0000"
+    },
+    "done": true
+  },
+  "mca:noble": {
+    "criteria": {
+      "baby": "2025-03-22 23:14:31 +0000"
+    },
+    "done": true
+  },
+  "recrafted_creatures:animal_whisperer": {
+    "criteria": {
+      "zebra": "2025-03-22 22:09:30 +0000",
+      "giraffe": "2025-03-22 22:05:32 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-03-22 22:05:58 +0000"
     },
     "done": true
   },
