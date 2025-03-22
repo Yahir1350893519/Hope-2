@@ -10422,3 +10422,44 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [22Mar2025 01:43:41.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> e chango termina el techo de esa casa
 [22Mar2025 01:43:50.336] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
 [22Mar2025 01:43:51.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> ya me mudo yo
+[22Mar2025 01:44:05.851] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[22Mar2025 01:44:07.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> a donde gil
+[22Mar2025 01:44:14.655] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9339ms or 186 ticks behind
+[22Mar2025 01:44:34.988] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5372ms or 107 ticks behind
+[22Mar2025 01:44:44.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> algun lugar donde este el bosque oscuro
+[22Mar2025 01:44:53.963] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3997ms or 79 ticks behind
+[22Mar2025 01:44:59.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> nose gil pero es la tipica
+[22Mar2025 01:45:03.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> me pasas la semilla otra vez??
+[22Mar2025 01:45:19.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> -8119221454635964921
+[22Mar2025 01:46:32.637] [Netty Epoll Server IO #1/DEBUG] [emotecraft/]: [emotes server] Received data from: 116e9c76-7157-3f7d-8106-557b209a5b07 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=33b912f8-0aa0-45e6-a2d4-9b5677e6f35c, length=50, extra={valid=true}}, startingAt=0, player=null}
+[22Mar2025 01:46:34.658] [Netty Epoll Server IO #1/DEBUG] [emotecraft/]: [emotes server] Received data from: 116e9c76-7157-3f7d-8106-557b209a5b07 data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=33b912f8-0aa0-45e6-a2d4-9b5677e6f35c, emoteData=null, startingAt=0, player=null}
+[22Mar2025 01:47:25.783] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[22Mar2025 01:47:28.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ has completed the challenge [Hunted]
+[22Mar2025 01:47:29.176] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[22Mar2025 01:47:43.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> milei
+[22Mar2025 01:47:45.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> veni
+[22Mar2025 01:47:48.287] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4120ms or 82 ticks behind
+[22Mar2025 01:47:59.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> voy
+[22Mar2025 01:48:36.424] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 01:48:36.447] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 01:48:51.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> q paso??
+[22Mar2025 01:48:56.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> vinieron muy pocos o faltan
+[22Mar2025 01:49:09.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> le pusieron precio a mi cabeza
+[22Mar2025 01:49:16.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> lore
+[22Mar2025 01:49:19.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> dea
+[22Mar2025 01:50:14.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> mira gil la fire keeper del souls 3
+[22Mar2025 01:50:45.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> el gobierno de minecraft teme de este pueblo que sera reino
+[22Mar2025 01:50:45.816] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[22Mar2025 01:50:45.816] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[22Mar2025 01:51:18.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> tenes q matar al que te puso eso
+[22Mar2025 01:51:31.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> porque se volvera a repetir
+[22Mar2025 01:51:34.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> shademount
+[22Mar2025 01:52:12.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Set own game mode to Creative Mode]
+[22Mar2025 01:52:15.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Set own game mode to Spectator Mode]
+[22Mar2025 01:52:45.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Set own game mode to Creative Mode]
+[22Mar2025 01:52:48.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Set own game mode to Survival Mode]
+[22Mar2025 01:53:36.426] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 01:53:36.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 01:53:49.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> si ves a alguien que se llama shademount avisame
+[22Mar2025 01:54:02.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> D1 capaz sea de la otra aldea
+[22Mar2025 01:54:05.868] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
