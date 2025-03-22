@@ -3848,3 +3848,256 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [22Mar2025 18:03:25.605] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/137, l='ServerLevel[world]', x=-1277.87, y=71.00, z=-3071.03], dimensionLocationPath overworld
 [22Mar2025 18:03:25.605] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/137, l='ServerLevel[world]', x=-1277.87, y=71.00, z=-3071.03] in list []
 [22Mar2025 18:03:25.709] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/137, l='ServerLevel[world]', x=-1277.87, y=71.00, z=-3071.03]
+[22Mar2025 18:04:06.008] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/137, l='ServerLevel[world]', x=-1236.30, y=60.00, z=-2986.43], dimensionLocationPath overworld
+[22Mar2025 18:04:06.008] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/137, l='ServerLevel[world]', x=-1236.30, y=60.00, z=-2986.43] in list []
+[22Mar2025 18:04:06.755] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/137, l='ServerLevel[world]', x=-1236.30, y=60.00, z=-2986.43]
+[22Mar2025 18:04:07.509] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/137, l='ServerLevel[world]', x=-1236.30, y=60.00, z=-2986.43], dimensionLocationPath overworld
+[22Mar2025 18:04:07.509] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/137, l='ServerLevel[world]', x=-1236.30, y=60.00, z=-2986.43] in list []
+[22Mar2025 18:04:07.564] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/137, l='ServerLevel[world]', x=-1236.30, y=60.00, z=-2986.43]
+[22Mar2025 18:04:38.862] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/137, l='ServerLevel[world]', x=-1236.33, y=55.00, z=-2980.58], dimensionLocationPath overworld
+[22Mar2025 18:04:38.863] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/137, l='ServerLevel[world]', x=-1236.33, y=55.00, z=-2980.58] in list []
+[22Mar2025 18:04:44.112] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/137, l='ServerLevel[world]', x=-1236.30, y=55.00, z=-2979.52]
+[22Mar2025 18:05:08.287] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[22Mar2025 18:05:08.336] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[22Mar2025 18:05:15.856] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/137, l='ServerLevel[world]', x=-1236.84, y=50.00, z=-2973.70], dimensionLocationPath overworld
+[22Mar2025 18:05:15.856] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/137, l='ServerLevel[world]', x=-1236.84, y=50.00, z=-2973.70] in list []
+[22Mar2025 18:05:17.611] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/137, l='ServerLevel[world]', x=-1236.84, y=50.00, z=-2973.70]
+[22Mar2025 18:05:21.090] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 18:05:21.111] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 18:05:35.657] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Mar2025 18:05:35.667] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=925, z=1073200}"
+}
+[22Mar2025 18:05:35.670] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[22Mar2025 18:05:35.672] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[4, -113, 21, 86, 72, -58, 58, -80, 100, -77, -23]"
+]
+[22Mar2025 18:05:36.340] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Mar2025 18:05:36.341] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=989, z=1073200}"
+}
+[22Mar2025 18:05:36.341] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[22Mar2025 18:05:36.342] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-25, -17, -5, -63, 72, 104, -8, 4, -8, -49, 117]"
+]
+[22Mar2025 18:05:37.132] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Mar2025 18:05:37.133] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=878, z=1073200}"
+}
+[22Mar2025 18:05:37.133] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[22Mar2025 18:05:37.134] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "y2@P7Rxc"
+]
+[22Mar2025 18:05:37.365] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Mar2025 18:05:37.366] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=966, z=1073200}"
+}
+[22Mar2025 18:05:37.368] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 56 extra bytes: 
+[22Mar2025 18:05:37.368] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "}kXkr<~(k^!P eBI=$@(.C="
+]
+[22Mar2025 18:05:37.370] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundChatAckPacket  id 3 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Mar2025 18:05:37.372] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_244085_": 1276
+}
+[22Mar2025 18:05:37.373] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 3 data of 108 extra bytes: 
+[22Mar2025 18:05:37.373] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<~(k^!P eBI=$@(.C=Ea&+/,0/527.ip.gl.ply.gg"
+]
+[22Mar2025 18:05:37.375] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundSetCarriedItemPacket  id 40 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Mar2025 18:05:37.375] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134488_": 27486
+}
+[22Mar2025 18:05:37.376] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 40 data of 112 extra bytes: 
+[22Mar2025 18:05:37.378] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "!P eBI=$@(.C=Ea&+/,0/527.ip.gl.ply.gg"
+]
+[22Mar2025 18:05:37.379] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundPongPacket  id 32 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Mar2025 18:05:37.380] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_179721_": -1503313157
+}
+[22Mar2025 18:05:37.381] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 32 data of 130 extra bytes: 
+[22Mar2025 18:05:37.382] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "I=$@(.C=Ea&+/,0/527.ip.gl.ply.gg"
+]
+[22Mar2025 18:05:37.383] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundLockDifficultyPacket  id 19 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Mar2025 18:05:37.384] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134105_": true
+}
+[22Mar2025 18:05:37.385] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 19 data of 130 extra bytes: 
+[22Mar2025 18:05:37.386] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "$@(.C=Ea&+/,0/527.ip.gl.ply.gg"
+]
+[22Mar2025 18:05:37.398] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Mar2025 18:05:37.401] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 0
+}
+[22Mar2025 18:05:37.403] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 21 extra bytes: 
+[22Mar2025 18:05:37.404] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[0, 18, 0, 0, 0, 43, 0, 9, 8, 3, 4, 3, 3, 3, 2, 3, 1, 0, 51, 0, 38]"
+]
+[22Mar2025 18:05:37.405] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Mar2025 18:05:37.406] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 18
+}
+[22Mar2025 18:05:37.407] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 19 extra bytes: 
+[22Mar2025 18:05:37.409] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[0, 0, 0, 43, 0, 9, 8, 3, 4, 3, 3, 3, 2, 3, 1, 0, 51, 0, 38]"
+]
+[22Mar2025 18:05:37.410] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Mar2025 18:05:37.410] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 0
+}
+[22Mar2025 18:05:37.412] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 53 extra bytes: 
+[22Mar2025 18:05:37.413] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "+3& AH?%0*w]AM#2"
+]
+[22Mar2025 18:05:37.414] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Mar2025 18:05:37.415] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 43
+}
+[22Mar2025 18:05:37.417] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 51 extra bytes: 
+[22Mar2025 18:05:37.417] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "3& AH?%0*w]AM#2"
+]
+[22Mar2025 18:05:37.843] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Mar2025 18:05:37.845] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=962, z=1073200}"
+}
+[22Mar2025 18:05:37.845] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[22Mar2025 18:05:37.846] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-11, -73, 111, -107, 84, 110, -55, -86, -90, 36, -126]"
+]
+[22Mar2025 18:05:39.570] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Mar2025 18:05:39.571] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=987, z=1073200}"
+}
+[22Mar2025 18:05:39.572] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 110 extra bytes: 
+[22Mar2025 18:05:39.572] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "}VJ+vy\\)8h' Y ^ng6'c\">8&+/,0/5"
+]
+[22Mar2025 18:05:39.697] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Mar2025 18:05:39.698] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=888, z=1073200}"
+}
+[22Mar2025 18:05:39.699] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 61 extra bytes: 
+[22Mar2025 18:05:39.700] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "RHYg2'!\\ +:5#`rmE_FTvS8"
+]
+[22Mar2025 18:05:53.123] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Mar2025 18:05:53.124] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=5768192, y=890, z=1122352}"
+}
+[22Mar2025 18:05:53.125] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[22Mar2025 18:05:53.125] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-86, -10, 53, 61, -69, 39, 124, 68, 53, 42, 70]"
+]
+[22Mar2025 18:05:53.381] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Mar2025 18:05:53.382] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-8125440, y=928, z=905264}"
+}
+[22Mar2025 18:05:53.382] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 60 extra bytes: 
+[22Mar2025 18:05:53.382] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "k,1S#G]t\"`\"?_D7Ah3(0j"
+]
+[22Mar2025 18:05:53.773] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[22Mar2025 18:05:53.774] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-11271168, y=887, z=856112}"
+}
+[22Mar2025 18:05:53.774] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 138 extra bytes: 
+[22Mar2025 18:05:53.774] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "j\"|YZg9KJi28,0+/$(k#'g93=<5/p27.ip.gl.ply.gg"
+]
+[22Mar2025 18:06:14.106] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/137, l='ServerLevel[world]', x=-1240.09, y=45.00, z=-2965.80], dimensionLocationPath overworld
+[22Mar2025 18:06:14.106] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/137, l='ServerLevel[world]', x=-1240.09, y=45.00, z=-2965.80] in list []
+[22Mar2025 18:06:15.105] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/137, l='ServerLevel[world]', x=-1240.09, y=45.00, z=-2965.80]
+[22Mar2025 18:07:53.352] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/137, l='ServerLevel[world]', x=-1277.76, y=71.00, z=-3053.32], dimensionLocationPath overworld
+[22Mar2025 18:07:53.352] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/137, l='ServerLevel[world]', x=-1277.76, y=71.00, z=-3053.32] in list []
+[22Mar2025 18:07:53.503] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/137, l='ServerLevel[world]', x=-1277.76, y=71.00, z=-3053.32]
+[22Mar2025 18:08:23.400] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/137, l='ServerLevel[world]', x=-1276.88, y=71.00, z=-3058.11], dimensionLocationPath overworld
+[22Mar2025 18:08:23.400] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/137, l='ServerLevel[world]', x=-1276.88, y=71.00, z=-3058.11] in list []
+[22Mar2025 18:08:24.099] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/137, l='ServerLevel[world]', x=-1276.88, y=71.00, z=-3058.11]
+[22Mar2025 18:08:28.586] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[22Mar2025 18:08:47.495] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/137, l='ServerLevel[world]', x=-1271.53, y=71.00, z=-3050.11], dimensionLocationPath overworld
+[22Mar2025 18:08:47.495] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/137, l='ServerLevel[world]', x=-1271.53, y=71.00, z=-3050.11] in list []
+[22Mar2025 18:08:47.547] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/137, l='ServerLevel[world]', x=-1271.31, y=71.00, z=-3049.88]
+[22Mar2025 18:09:01.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PlagaXNZ moved wrongly!
+[22Mar2025 18:10:21.123] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 18:10:21.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 18:11:48.437] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[22Mar2025 18:12:22.407] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/137, l='ServerLevel[world]', x=-1267.31, y=72.50, z=-3081.85], dimensionLocationPath overworld
+[22Mar2025 18:12:22.407] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/137, l='ServerLevel[world]', x=-1267.31, y=72.50, z=-3081.85] in list []
+[22Mar2025 18:12:30.637] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/3081, l='ServerLevel[world]', x=-1247.72, y=68.20, z=-3068.48], dimensionLocationPath overworld
+[22Mar2025 18:12:30.637] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/3081, l='ServerLevel[world]', x=-1247.72, y=68.20, z=-3068.48] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@89]
+[22Mar2025 18:12:31.137] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/3081, l='ServerLevel[world]', x=-1247.55, y=68.00, z=-3068.87, removed=DISCARDED]
+[22Mar2025 18:12:44.237] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/3121, l='ServerLevel[world]', x=-1257.27, y=68.55, z=-3042.32], dimensionLocationPath overworld
+[22Mar2025 18:12:44.237] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/3121, l='ServerLevel[world]', x=-1257.27, y=68.55, z=-3042.32] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@89]
+[22Mar2025 18:12:44.737] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/3121, l='ServerLevel[world]', x=-1256.42, y=68.31, z=-3042.83, removed=DISCARDED]
+[22Mar2025 18:12:58.286] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/3147, l='ServerLevel[world]', x=-1283.57, y=68.35, z=-3043.58], dimensionLocationPath overworld
+[22Mar2025 18:12:58.286] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/3147, l='ServerLevel[world]', x=-1283.57, y=68.35, z=-3043.58] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@89]
+[22Mar2025 18:12:58.787] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/3147, l='ServerLevel[world]', x=-1283.42, y=68.11, z=-3044.23, removed=DISCARDED]
+[22Mar2025 18:13:01.236] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/3153, l='ServerLevel[world]', x=-1284.57, y=68.59, z=-3045.44], dimensionLocationPath overworld
+[22Mar2025 18:13:01.236] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/3153, l='ServerLevel[world]', x=-1284.57, y=68.59, z=-3045.44] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@89]
+[22Mar2025 18:13:01.737] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/3153, l='ServerLevel[world]', x=-1284.78, y=68.35, z=-3045.52, removed=DISCARDED]
+[22Mar2025 18:13:06.036] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/3166, l='ServerLevel[world]', x=-1278.65, y=68.20, z=-3029.62], dimensionLocationPath overworld
+[22Mar2025 18:13:06.036] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/3166, l='ServerLevel[world]', x=-1278.65, y=68.20, z=-3029.62] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@89]
+[22Mar2025 18:13:06.537] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/3166, l='ServerLevel[world]', x=-1279.41, y=68.00, z=-3029.33, removed=DISCARDED]
+[22Mar2025 18:13:08.787] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/3173, l='ServerLevel[world]', x=-1276.31, y=68.31, z=-3025.29], dimensionLocationPath overworld
+[22Mar2025 18:13:08.787] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/3173, l='ServerLevel[world]', x=-1276.31, y=68.31, z=-3025.29] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@89]
+[22Mar2025 18:13:09.286] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/3173, l='ServerLevel[world]', x=-1276.13, y=68.07, z=-3025.73, removed=DISCARDED]
+[22Mar2025 18:13:25.698] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[22Mar2025 18:13:39.436] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/3314, l='ServerLevel[world]', x=-1360.64, y=69.13, z=-3068.56], dimensionLocationPath overworld
+[22Mar2025 18:13:39.436] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/3314, l='ServerLevel[world]', x=-1360.64, y=69.13, z=-3068.56] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@89]
+[22Mar2025 18:13:40.736] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/3314, l='ServerLevel[world]', x=-1360.65, y=69.00, z=-3069.28, removed=DISCARDED]
