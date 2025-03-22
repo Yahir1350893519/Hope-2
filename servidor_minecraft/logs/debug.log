@@ -8639,3 +8639,75 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [22Mar2025 21:07:07.757] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukusting'/12105, l='ServerLevel[world]', x=-1275.66, y=72.00, z=-3068.43]
 [22Mar2025 21:07:27.003] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Mar2025 21:07:27.021] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 21:07:56.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> e gil a los 300 te casas con el anillo sin el diamante?
+[22Mar2025 21:08:09.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> no a los 200
+[22Mar2025 21:08:12.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> o 150
+[22Mar2025 21:08:21.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> a los 200 era el que tenia el diamante
+[22Mar2025 21:08:26.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> que era el de compromiso
+[22Mar2025 21:08:29.187] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[22Mar2025 21:08:35.096] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/21175, l='ServerLevel[world]', x=-1279.21, y=71.00, z=-3064.36], dimensionLocationPath overworld
+[22Mar2025 21:08:35.096] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/21175, l='ServerLevel[world]', x=-1279.21, y=71.00, z=-3064.36] in list []
+[22Mar2025 21:08:38.096] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/21175, l='ServerLevel[world]', x=-1279.21, y=71.00, z=-3064.36]
+[22Mar2025 21:08:54.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> ese se a los 100
+[22Mar2025 21:09:10.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> cuantos corazones tenes ahora??
+[22Mar2025 21:09:13.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> en serio?
+[22Mar2025 21:09:19.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> re poco igual
+[22Mar2025 21:09:19.248] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukusting'/12105, l='ServerLevel[world]', x=-1269.65, y=71.00, z=-3076.45], dimensionLocationPath overworld
+[22Mar2025 21:09:19.249] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukusting'/12105, l='ServerLevel[world]', x=-1269.65, y=71.00, z=-3076.45] in list []
+[22Mar2025 21:09:19.302] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukusting'/12105, l='ServerLevel[world]', x=-1269.77, y=71.00, z=-3076.27]
+[22Mar2025 21:09:25.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> 270
+[22Mar2025 21:09:34.162] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/21175, l='ServerLevel[world]', x=-1254.60, y=71.00, z=-3070.99], dimensionLocationPath overworld
+[22Mar2025 21:09:34.163] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/21175, l='ServerLevel[world]', x=-1254.60, y=71.00, z=-3070.99] in list []
+[22Mar2025 21:09:34.401] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/21175, l='ServerLevel[world]', x=-1254.60, y=71.00, z=-3070.99]
+[22Mar2025 21:09:37.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> si podes casarte
+[22Mar2025 21:09:40.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> intenta
+[22Mar2025 21:10:35.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> q estas buscando??
+[22Mar2025 21:10:46.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> reparacion o irrompible 3
+[22Mar2025 21:11:38.599] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukusting'/12105, l='ServerLevel[world]', x=-1272.92, y=71.00, z=-3067.93], dimensionLocationPath overworld
+[22Mar2025 21:11:38.599] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukusting'/12105, l='ServerLevel[world]', x=-1272.92, y=71.00, z=-3067.93] in list []
+[22Mar2025 21:11:38.900] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukusting'/12105, l='ServerLevel[world]', x=-1272.92, y=71.00, z=-3067.93]
+[22Mar2025 21:11:49.136] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[22Mar2025 21:11:56.344] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukusting'/12105, l='ServerLevel[world]', x=-1270.02, y=71.00, z=-3070.82], dimensionLocationPath overworld
+[22Mar2025 21:11:56.345] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukusting'/12105, l='ServerLevel[world]', x=-1270.02, y=71.00, z=-3070.82] in list []
+[22Mar2025 21:11:57.843] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukusting'/12105, l='ServerLevel[world]', x=-1265.90, y=71.00, z=-3075.35]
+[22Mar2025 21:12:15.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting has reached the goal [Postmortal]
+[22Mar2025 21:12:20.544] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukusting'/12105, l='ServerLevel[world]', x=-1281.17, y=71.00, z=-3061.27], dimensionLocationPath overworld
+[22Mar2025 21:12:20.544] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukusting'/12105, l='ServerLevel[world]', x=-1281.17, y=71.00, z=-3061.27] in list []
+[22Mar2025 21:12:22.692] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukusting'/12105, l='ServerLevel[world]', x=-1276.57, y=71.00, z=-3070.02]
+[22Mar2025 21:12:27.044] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 21:12:27.076] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 21:12:39.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> ya me gastaste un totem
+[22Mar2025 21:12:47.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> vos tambien
+[22Mar2025 21:12:56.204] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukusting'/12105, l='ServerLevel[world]', x=-1269.31, y=71.00, z=-3071.80], dimensionLocationPath overworld
+[22Mar2025 21:12:56.204] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukusting'/12105, l='ServerLevel[world]', x=-1269.31, y=71.00, z=-3071.80] in list []
+[22Mar2025 21:12:56.617] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukusting'/12105, l='ServerLevel[world]', x=-1269.31, y=71.00, z=-3071.80]
+[22Mar2025 21:13:10.959] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukusting'/12105, l='ServerLevel[world]', x=-1268.28, y=71.00, z=-3074.04], dimensionLocationPath overworld
+[22Mar2025 21:13:10.959] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukusting'/12105, l='ServerLevel[world]', x=-1268.28, y=71.00, z=-3074.04] in list []
+[22Mar2025 21:13:11.006] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukusting'/12105, l='ServerLevel[world]', x=-1268.28, y=71.00, z=-3074.04]
+[22Mar2025 21:13:21.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> e gil
+[22Mar2025 21:13:26.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> esta piola el hacha
+[22Mar2025 21:13:34.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> te sirve como hacha comun
+[22Mar2025 21:13:46.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> bien ahi gil
+[22Mar2025 21:13:46.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> me ahorra hacer hachas
+[22Mar2025 21:13:54.267] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukusting'/12105, l='ServerLevel[world]', x=-2192.31, y=68.00, z=4025.53], dimensionLocationPath overworld
+[22Mar2025 21:13:54.267] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukusting'/12105, l='ServerLevel[world]', x=-2192.31, y=68.00, z=4025.53] in list []
+[22Mar2025 21:13:54.369] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukusting'/12105, l='ServerLevel[world]', x=-2192.31, y=68.00, z=4025.53]
+[22Mar2025 21:14:45.076] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/21175, l='ServerLevel[world]', x=-1257.59, y=71.00, z=-3076.61], dimensionLocationPath overworld
+[22Mar2025 21:14:45.076] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/21175, l='ServerLevel[world]', x=-1257.59, y=71.00, z=-3076.61] in list []
+[22Mar2025 21:14:45.326] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/21175, l='ServerLevel[world]', x=-1257.59, y=71.00, z=-3076.61]
+[22Mar2025 21:14:59.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> e gil avisame cuando encotres filo 5
+[22Mar2025 21:15:08.963] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[22Mar2025 21:15:09.037] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[22Mar2025 21:15:38.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> que haces
+[22Mar2025 21:15:45.906] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukusting'/12105, l='ServerLevel[world]', x=-1258.64, y=71.00, z=-3076.12], dimensionLocationPath overworld
+[22Mar2025 21:15:45.906] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukusting'/12105, l='ServerLevel[world]', x=-1258.64, y=71.00, z=-3076.12] in list []
+[22Mar2025 21:15:46.309] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukusting'/12105, l='ServerLevel[world]', x=-1257.96, y=71.00, z=-3076.69]
+[22Mar2025 21:16:30.052] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/21175, l='ServerLevel[world]', x=-1258.48, y=71.00, z=-3076.62], dimensionLocationPath overworld
+[22Mar2025 21:16:30.052] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/21175, l='ServerLevel[world]', x=-1258.48, y=71.00, z=-3076.62] in list []
+[22Mar2025 21:16:30.912] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/21175, l='ServerLevel[world]', x=-1258.48, y=71.00, z=-3076.62]
+[22Mar2025 21:16:51.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> amigo deja de tocar que se buguea
+[22Mar2025 21:16:56.249] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukusting'/12105, l='ServerLevel[world]', x=-1266.42, y=71.00, z=-3075.71], dimensionLocationPath overworld
+[22Mar2025 21:16:56.249] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukusting'/12105, l='ServerLevel[world]', x=-1266.42, y=71.00, z=-3075.71] in list []
+[22Mar2025 21:16:56.300] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukusting'/12105, l='ServerLevel[world]', x=-1266.49, y=71.00, z=-3075.63]
+[22Mar2025 21:17:27.010] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 21:17:27.030] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
