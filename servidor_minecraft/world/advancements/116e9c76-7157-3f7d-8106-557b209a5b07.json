@@ -4102,9 +4102,9 @@
     },
     "done": true
   },
-  "farm_and_charm:recipes/window_sill": {
+  "minecraft:story/cure_zombie_villager": {
     "criteria": {
-      "has_flower_pot": "2025-03-22 16:54:53 +0000"
+      "cured_zombie": "2025-03-22 16:38:54 +0000"
     },
     "done": true
   },
@@ -4120,15 +4120,15 @@
     },
     "done": true
   },
-  "minecraft:story/cure_zombie_villager": {
-    "criteria": {
-      "cured_zombie": "2025-03-22 16:38:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2025-03-22 16:54:11 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/window_sill": {
+    "criteria": {
+      "has_flower_pot": "2025-03-22 16:54:53 +0000"
     },
     "done": true
   },
