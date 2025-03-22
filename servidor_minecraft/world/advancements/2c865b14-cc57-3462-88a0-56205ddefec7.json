@@ -3783,27 +3783,27 @@
     },
     "done": true
   },
-  "aether:icestone": {
+  "aether:bronze_dungeon": {
     "criteria": {
-      "icestone": "2025-03-21 23:30:35 +0000"
+      "kill_slider": "2025-03-21 23:23:44 +0000"
     },
     "done": true
   },
-  "aether:recipes/misc/aether_gold_nugget_from_smelting": {
+  "aether:recipes/combat/zanite_gloves_repairing": {
     "criteria": {
-      "has_golden_gloves": "2025-03-22 00:41:23 +0000"
+      "has_zanite_gloves": "2025-03-21 23:24:10 +0000"
     },
     "done": true
   },
-  "mowziesmobs:kill_ferrous_wroughtnaut": {
+  "aether:recipes/combat/poison_dart": {
     "criteria": {
-      "ferrous_wroughtnaut": "2025-03-22 00:07:21 +0000"
+      "has_golden_dart": "2025-03-21 23:24:15 +0000"
     },
     "done": true
   },
-  "farm_and_charm:recipes/carrot_bag": {
+  "aether:recipes/misc/enchanted_dart_enchanting": {
     "criteria": {
-      "has_carrot": "2025-03-21 23:58:15 +0000"
+      "has_golden_dart": "2025-03-21 23:24:15 +0000"
     },
     "done": true
   },
@@ -3813,15 +3813,27 @@
     },
     "done": true
   },
-  "aether:recipes/decorations/icestone_wall_from_icestone_stonecutting": {
+  "aether:recipes/building_blocks/carved_stone_from_sentry_stone_stonecutting": {
     "criteria": {
-      "has_icestone": "2025-03-21 23:30:35 +0000"
+      "has_sentry_stone": "2025-03-21 23:24:28 +0000"
     },
     "done": true
   },
-  "aether:recipes/combat/golden_gloves_repairing": {
+  "aether:recipes/building_blocks/quicksoil_glass_enchanting": {
     "criteria": {
-      "has_golden_gloves": "2025-03-22 00:41:23 +0000"
+      "has_quicksoil": "2025-03-21 23:29:20 +0000"
+    },
+    "done": true
+  },
+  "aether:icestone": {
+    "criteria": {
+      "icestone": "2025-03-21 23:30:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/icestone_wall_from_icestone_stonecutting": {
+    "criteria": {
+      "has_icestone": "2025-03-21 23:30:35 +0000"
     },
     "done": true
   },
@@ -3837,27 +3849,9 @@
     },
     "done": true
   },
-  "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
-    "criteria": {
-      "has_lava_bucket": "2025-03-22 00:41:46 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/quicksoil_glass_enchanting": {
-    "criteria": {
-      "has_quicksoil": "2025-03-21 23:29:20 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/building_blocks/icestone_stairs_from_icestone_stonecutting": {
     "criteria": {
       "has_icestone": "2025-03-21 23:30:35 +0000"
-    },
-    "done": true
-  },
-  "aether:bronze_dungeon": {
-    "criteria": {
-      "kill_slider": "2025-03-21 23:23:44 +0000"
     },
     "done": true
   },
@@ -3867,33 +3861,15 @@
     },
     "done": true
   },
-  "aether:recipes/combat/poison_dart": {
-    "criteria": {
-      "has_golden_dart": "2025-03-21 23:24:15 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/golden_leggings_repairing": {
-    "criteria": {
-      "has_golden_leggings": "2025-03-22 00:44:01 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/building_blocks/icestone_stairs": {
     "criteria": {
       "has_icestone": "2025-03-21 23:30:35 +0000"
     },
     "done": true
   },
-  "aether:recipes/tools/stone_shovel_repairing": {
+  "farm_and_charm:recipes/carrot_bag": {
     "criteria": {
-      "has_stone_shovel": "2025-03-22 00:03:47 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/zanite_gloves_repairing": {
-    "criteria": {
-      "has_zanite_gloves": "2025-03-21 23:24:10 +0000"
+      "has_carrot": "2025-03-21 23:58:15 +0000"
     },
     "done": true
   },
@@ -3903,9 +3879,33 @@
     },
     "done": true
   },
-  "aether:recipes/misc/enchanted_dart_enchanting": {
+  "minecraft:husbandry/plant_seed": {
     "criteria": {
-      "has_golden_dart": "2025-03-21 23:24:15 +0000"
+      "wheat": "2025-03-21 23:58:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/stone_shovel_repairing": {
+    "criteria": {
+      "has_stone_shovel": "2025-03-22 00:03:47 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2025-03-22 00:07:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_gloves": "2025-03-22 00:41:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_gloves_repairing": {
+    "criteria": {
+      "has_golden_gloves": "2025-03-22 00:41:23 +0000"
     },
     "done": true
   },
@@ -3915,15 +3915,15 @@
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
+  "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
     "criteria": {
-      "wheat": "2025-03-21 23:58:30 +0000"
+      "has_lava_bucket": "2025-03-22 00:41:46 +0000"
     },
     "done": true
   },
-  "aether:recipes/building_blocks/carved_stone_from_sentry_stone_stonecutting": {
+  "aether:recipes/combat/golden_leggings_repairing": {
     "criteria": {
-      "has_sentry_stone": "2025-03-21 23:24:28 +0000"
+      "has_golden_leggings": "2025-03-22 00:44:01 +0000"
     },
     "done": true
   },

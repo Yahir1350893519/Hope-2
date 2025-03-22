@@ -585,3 +585,36 @@
 [22Mar2025 01:12:15.137] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9821ms or 196 ticks behind
 [22Mar2025 01:12:38.171] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8055ms or 161 ticks behind
 [22Mar2025 01:13:00.667] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7501ms or 150 ticks behind
+[22Mar2025 01:13:30.270] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14604ms or 292 ticks behind
+[22Mar2025 01:13:36.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> ma chango mi hijo salio mal
+[22Mar2025 01:13:50.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> porque tiene down?
+[22Mar2025 01:13:53.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> le esta pasando lo que le paso a tu wacha
+[22Mar2025 01:13:54.288] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9021ms or 180 ticks behind
+[22Mar2025 01:14:03.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> no jajaja
+[22Mar2025 01:14:11.280] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[22Mar2025 01:14:32.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ has completed the challenge [Best Friends]
+[22Mar2025 01:15:41.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> capaz ya se porque
+[22Mar2025 01:15:57.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> porque??
+[22Mar2025 01:16:06.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> capaz te pasaste de corazones por mucho o esta bug
+[22Mar2025 01:16:18.686] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jukusting lost connection: Disconnected
+[22Mar2025 01:16:18.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting left the game
+[22Mar2025 01:16:18.686] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 2c865b14-cc57-3462-88a0-56205ddefec7
+[22Mar2025 01:16:18.687] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Jukusting
+[22Mar2025 01:16:25.607] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jukusting[/127.113.44.68:34405] logged in with entity id 43669 at (25.838664512762108, 70.0, 932.9119271976002)
+[22Mar2025 01:16:25.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting joined the game
+[22Mar2025 01:16:25.744] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 2c865b14-cc57-3462-88a0-56205ddefec7
+[22Mar2025 01:16:26.561] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Jukusting (18)
+[22Mar2025 01:16:26.562] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Jukusting
+[22Mar2025 01:17:16.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> terminales la casa chango
+[22Mar2025 01:17:20.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> poneles techo
+[22Mar2025 01:19:09.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> tambien puede ser por eso quien sabe
+[22Mar2025 01:19:36.786] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[22Mar2025 01:20:10.125] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[22Mar2025 01:21:58.475] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[22Mar2025 01:22:11.350] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Rikou'/43715, l='ServerLevel[world]', x=172.53, y=63.10, z=1002.09] died, message: 'Rikou (Staying) tried to swim in lava'
+[22Mar2025 01:22:11.351] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Rikou'/43715, l='ServerLevel[world]', x=172.53, y=63.10, z=1002.09] died: Rikou (Staying) tried to swim in lava
+[22Mar2025 01:22:14.581] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Lara Croft'/45336, l='ServerLevel[world]', x=172.52, y=64.20, z=1002.12] died, message: 'Lara Croft tried to swim in lava'
+[22Mar2025 01:22:14.582] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Lara Croft'/45336, l='ServerLevel[world]', x=172.52, y=64.20, z=1002.12] died: Lara Croft tried to swim in lava
+[22Mar2025 01:22:17.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3695ms or 73 ticks behind
+[22Mar2025 01:22:39.660] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7543ms or 150 ticks behind
+[22Mar2025 01:23:00.277] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
