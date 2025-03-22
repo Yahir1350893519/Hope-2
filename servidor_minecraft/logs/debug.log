@@ -6519,3 +6519,44 @@ Caused by: java.io.IOException: Packet 0/26 (ServerboundPickItemPacket) was larg
 [22Mar2025 00:00:19.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> Vamos?
 [22Mar2025 00:00:45.518] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
 [22Mar2025 00:00:45.518] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[22Mar2025 00:01:32.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> listo gil
+[22Mar2025 00:02:17.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Teleported Jukusting to PlagaXNZ]
+[22Mar2025 00:02:57.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> si ves una cueva avisame o cavamos directamente para abajo
+[22Mar2025 00:03:00.125] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 00:03:00.147] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 00:03:23.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> cavamos hacia abajo pa ma vale q si o no pa??
+[22Mar2025 00:04:05.567] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[22Mar2025 00:04:25.227] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukusting'/296, l='ServerLevel[world]', x=-1360.30, y=62.00, z=-2991.30], dimensionLocationPath overworld
+[22Mar2025 00:04:25.227] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukusting'/296, l='ServerLevel[world]', x=-1360.30, y=62.00, z=-2991.30] in list []
+[22Mar2025 00:04:27.283] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukusting'/296, l='ServerLevel[world]', x=-1360.70, y=62.00, z=-2991.34]
+[22Mar2025 00:04:56.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Teleported Jukusting to PlagaXNZ]
+[22Mar2025 00:07:21.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting has completed the challenge [Just a Flesh Wound]
+[22Mar2025 00:07:25.518] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[22Mar2025 00:08:00.132] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 00:08:00.152] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 00:08:00.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ has reached the goal [Postmortal]
+[22Mar2025 00:08:27.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> hdp siempre te quedas con las cosas de jefes
+[22Mar2025 00:08:30.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> eh bueno ya esta gilo
+[22Mar2025 00:08:33.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> este y el de hielo
+[22Mar2025 00:08:41.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> te doy el de hielo
+[22Mar2025 00:08:46.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> no
+[22Mar2025 00:08:51.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> dame este
+[22Mar2025 00:09:06.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> la puta q te pario
+[22Mar2025 00:09:16.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> dale gil no seas culiao
+[22Mar2025 00:09:16.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> dejame come culiao
+[22Mar2025 00:09:42.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> queres tambien el casco??
+[22Mar2025 00:09:51.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> quedatelo si te gusta
+[22Mar2025 00:10:15.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> disculpa gil
+[22Mar2025 00:10:18.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> ta god gil
+[22Mar2025 00:10:21.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> xd
+[22Mar2025 00:10:25.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> XD
+[22Mar2025 00:10:33.217] [Netty Epoll Server IO #2/DEBUG] [emotecraft/]: [emotes server] Received data from: 116e9c76-7157-3f7d-8106-557b209a5b07 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=01a53a42-2fd2-418c-8e46-e4ee1ff9ee6a, length=61, extra={valid=true}}, startingAt=0, player=null}
+[22Mar2025 00:10:41.332] [Netty Epoll Server IO #2/DEBUG] [emotecraft/]: [emotes server] Received data from: 116e9c76-7157-3f7d-8106-557b209a5b07 data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=01a53a42-2fd2-418c-8e46-e4ee1ff9ee6a, emoteData=null, startingAt=0, player=null}
+[22Mar2025 00:10:45.566] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[22Mar2025 00:10:45.567] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[22Mar2025 00:10:58.526] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukusting'/296, l='ServerLevel[world]', x=-1348.09, y=49.00, z=-2990.23], dimensionLocationPath overworld
+[22Mar2025 00:10:58.526] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukusting'/296, l='ServerLevel[world]', x=-1348.09, y=49.00, z=-2990.23] in list []
+[22Mar2025 00:10:58.688] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukusting'/296, l='ServerLevel[world]', x=-1348.72, y=49.00, z=-2990.07]
+[22Mar2025 00:11:06.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> cuantos jefes quedan?
+[22Mar2025 00:11:15.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> el de la savana
+[22Mar2025 00:11:20.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> y nose cual

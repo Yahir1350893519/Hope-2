@@ -3789,6 +3789,18 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2025-03-22 00:07:21 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/carrot_bag": {
+    "criteria": {
+      "has_carrot": "2025-03-21 23:58:15 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/zanite_chestplate_repairing": {
     "criteria": {
       "has_zanite_chestplate": "2025-03-21 23:24:25 +0000"
@@ -3849,15 +3861,33 @@
     },
     "done": true
   },
+  "aether:recipes/tools/stone_shovel_repairing": {
+    "criteria": {
+      "has_stone_shovel": "2025-03-22 00:03:47 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/zanite_gloves_repairing": {
     "criteria": {
       "has_zanite_gloves": "2025-03-21 23:24:10 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-03-21 23:58:15 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/enchanted_dart_enchanting": {
     "criteria": {
       "has_golden_dart": "2025-03-21 23:24:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-03-21 23:58:30 +0000"
     },
     "done": true
   },
