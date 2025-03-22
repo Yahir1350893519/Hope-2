@@ -4194,6 +4194,12 @@
     },
     "done": true
   },
+  "bonfires:bonfires/homeward_bone": {
+    "criteria": {
+      "homeward_bone": "2025-03-22 19:41:44 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_sword_repairing": {
     "criteria": {
       "has_diamond_sword": "2025-03-22 19:16:04 +0000"
