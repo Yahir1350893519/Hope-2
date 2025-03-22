@@ -3837,12 +3837,6 @@
     },
     "done": true
   },
-  "mca:best_friend": {
-    "criteria": {
-      "baby": "2025-03-22 01:14:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-03-22 00:26:23 +0000"
@@ -3855,15 +3849,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-03-22 00:26:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-03-22 00:27:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/slime_block": {
+  "mca:best_friend": {
     "criteria": {
-      "has_slime_ball": "2025-03-22 00:26:23 +0000"
+      "baby": "2025-03-22 01:14:32 +0000"
     },
     "done": true
   },
