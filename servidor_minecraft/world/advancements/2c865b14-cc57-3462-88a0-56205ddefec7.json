@@ -3789,6 +3789,12 @@
     },
     "done": true
   },
+  "aether:recipes/misc/aether_gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_gloves": "2025-03-22 00:41:23 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_ferrous_wroughtnaut": {
     "criteria": {
       "ferrous_wroughtnaut": "2025-03-22 00:07:21 +0000"
@@ -3813,6 +3819,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_gloves_repairing": {
+    "criteria": {
+      "has_golden_gloves": "2025-03-22 00:41:23 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/icestone_slab": {
     "criteria": {
       "has_icestone": "2025-03-21 23:30:35 +0000"
@@ -3822,6 +3834,12 @@
   "aether:recipes/decorations/icestone_wall": {
     "criteria": {
       "has_icestone": "2025-03-21 23:30:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
+    "criteria": {
+      "has_lava_bucket": "2025-03-22 00:41:46 +0000"
     },
     "done": true
   },
@@ -3855,6 +3873,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_leggings_repairing": {
+    "criteria": {
+      "has_golden_leggings": "2025-03-22 00:44:01 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/icestone_stairs": {
     "criteria": {
       "has_icestone": "2025-03-21 23:30:35 +0000"
@@ -3882,6 +3906,12 @@
   "aether:recipes/misc/enchanted_dart_enchanting": {
     "criteria": {
       "has_golden_dart": "2025-03-21 23:24:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_gloves": "2025-03-22 00:41:23 +0000"
     },
     "done": true
   },
