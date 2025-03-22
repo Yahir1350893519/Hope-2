@@ -4867,3 +4867,31 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [22Mar2025 19:32:57.443] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
 [22Mar2025 19:33:18.724] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6289ms or 125 ticks behind
 [22Mar2025 19:34:18.420] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[22Mar2025 19:35:08.112] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2126ms or 42 ticks behind
+[22Mar2025 19:35:08.668] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[22Mar2025 19:35:08.741] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[22Mar2025 19:36:07.955] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 19:36:07.990] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 19:38:28.936] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[22Mar2025 19:41:07.951] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 19:41:07.970] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 19:41:44.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting has made the advancement [Homeward Bone]
+[22Mar2025 19:41:48.785] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[22Mar2025 19:42:57.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> e gil tenes carga ignea??
+[22Mar2025 19:43:04.546] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukusting'/12105, l='ServerLevel[world]', x=-2203.82, y=63.88, z=4024.44], dimensionLocationPath overworld
+[22Mar2025 19:43:04.546] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukusting'/12105, l='ServerLevel[world]', x=-2203.82, y=63.88, z=4024.44] in list []
+[22Mar2025 19:43:09.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> si te habia dejado creo
+[22Mar2025 19:43:13.026] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukusting'/12105, l='ServerLevel[world]', x=-2210.07, y=64.00, z=4029.85]
+[22Mar2025 19:43:13.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> pero igual si tengo
+[22Mar2025 19:43:26.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> me falta 1
+[22Mar2025 19:43:28.881] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukusting'/12105, l='ServerLevel[world]', x=-2209.93, y=64.00, z=4028.98], dimensionLocationPath overworld
+[22Mar2025 19:43:28.881] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukusting'/12105, l='ServerLevel[world]', x=-2209.93, y=64.00, z=4028.98] in list []
+[22Mar2025 19:43:28.934] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukusting'/12105, l='ServerLevel[world]', x=-2209.93, y=64.00, z=4028.98]
+[22Mar2025 19:43:36.869] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukusting'/12105, l='ServerLevel[world]', x=-2211.27, y=64.00, z=4029.30], dimensionLocationPath overworld
+[22Mar2025 19:43:36.869] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukusting'/12105, l='ServerLevel[world]', x=-2211.27, y=64.00, z=4029.30] in list []
+[22Mar2025 19:43:42.098] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[22Mar2025 19:43:59.668] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukusting'/12105, l='ServerLevel[world]', x=-2211.83, y=65.00, z=4029.70]
+[22Mar2025 19:44:28.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> si tengo
+[22Mar2025 19:44:44.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Teleported PlagaXNZ to Jukusting]
+[22Mar2025 19:45:08.687] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[22Mar2025 19:45:08.787] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
