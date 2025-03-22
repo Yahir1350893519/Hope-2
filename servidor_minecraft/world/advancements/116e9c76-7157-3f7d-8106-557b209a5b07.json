@@ -4102,5 +4102,35 @@
     },
     "done": true
   },
+  "farm_and_charm:recipes/window_sill": {
+    "criteria": {
+      "has_flower_pot": "2025-03-22 16:54:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-03-22 16:54:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-03-22 16:54:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2025-03-22 16:38:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-03-22 16:54:11 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
