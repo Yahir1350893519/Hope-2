@@ -6492,3 +6492,30 @@ Caused by: java.io.IOException: Packet 0/26 (ServerboundPickItemPacket) was larg
 [21Mar2025 23:49:49.227] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2210ms or 44 ticks behind
 [21Mar2025 23:50:45.467] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
 [21Mar2025 23:50:45.467] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[21Mar2025 23:51:06.031] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[21Mar2025 23:52:11.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> ya estoy
+[21Mar2025 23:52:58.127] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Mar2025 23:52:58.149] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Mar2025 23:53:19.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> donde vamos aca nomas ?
+[21Mar2025 23:53:33.043] [Netty Epoll Server IO #2/DEBUG] [emotecraft/]: [emotes server] Received data from: 116e9c76-7157-3f7d-8106-557b209a5b07 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=01a53a42-2fd2-418c-8e46-e4ee1ff9ee6a, length=61, extra={valid=true}}, startingAt=0, player=null}
+[21Mar2025 23:53:33.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> creo q no
+[21Mar2025 23:53:49.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> yo ya le saque todo lo que tenia
+[21Mar2025 23:53:54.652] [Netty Epoll Server IO #1/DEBUG] [emotecraft/]: [emotes server] Received data from: 2c865b14-cc57-3462-88a0-56205ddefec7 data: NetData{purpose=STREAM, threshold=8.0, stopEmoteID=null, emoteData=KeyframeAnimation{uuid=01a53a42-2fd2-418c-8e46-e4ee1ff9ee6a, length=61, extra={valid=true}}, startingAt=0, player=null}
+[21Mar2025 23:54:05.518] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[21Mar2025 23:54:06.018] [Netty Epoll Server IO #1/DEBUG] [emotecraft/]: [emotes server] Received data from: 2c865b14-cc57-3462-88a0-56205ddefec7 data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=01a53a42-2fd2-418c-8e46-e4ee1ff9ee6a, emoteData=null, startingAt=0, player=null}
+[21Mar2025 23:54:08.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> bueno seguime haber si encontramos esa fortaleza
+[21Mar2025 23:54:08.551] [Netty Epoll Server IO #2/DEBUG] [emotecraft/]: [emotes server] Received data from: 116e9c76-7157-3f7d-8106-557b209a5b07 data: NetData{purpose=STOP, threshold=8.0, stopEmoteID=01a53a42-2fd2-418c-8e46-e4ee1ff9ee6a, emoteData=null, startingAt=0, player=null}
+[21Mar2025 23:54:26.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> espera q cocine comida
+[21Mar2025 23:56:39.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukusting> tenes afiladora??
+[21Mar2025 23:56:42.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> no
+[21Mar2025 23:57:25.467] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[21Mar2025 23:57:58.123] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Mar2025 23:57:58.142] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Mar2025 23:58:30.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting has made the advancement [A Seedy Place]
+[21Mar2025 23:58:44.922] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[21Mar2025 23:59:20.336] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/10050, l='ServerLevel[world]', x=-1259.64, y=71.00, z=-3059.45], dimensionLocationPath overworld
+[21Mar2025 23:59:20.336] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/10050, l='ServerLevel[world]', x=-1259.64, y=71.00, z=-3059.45] in list []
+[21Mar2025 23:59:28.835] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/10050, l='ServerLevel[world]', x=-1280.78, y=71.00, z=-3068.38]
+[22Mar2025 00:00:19.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> Vamos?
+[22Mar2025 00:00:45.518] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[22Mar2025 00:00:45.518] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
