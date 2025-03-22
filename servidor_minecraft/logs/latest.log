@@ -1106,3 +1106,5 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [22Mar2025 20:38:12.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukusting was slain by Vindicator
 [22Mar2025 20:41:36.660] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
 [22Mar2025 20:46:03.492] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[22Mar2025 20:47:05.404] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[22Mar2025 20:47:22.988] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2602ms or 52 ticks behind
