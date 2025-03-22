@@ -4194,6 +4194,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/allay_deliver_item_to_player": {
+    "criteria": {
+      "allay_deliver_item_to_player": "2025-03-22 20:03:15 +0000"
+    },
+    "done": true
+  },
   "bonfires:bonfires/homeward_bone": {
     "criteria": {
       "homeward_bone": "2025-03-22 19:41:44 +0000"
