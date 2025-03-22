@@ -8711,3 +8711,30 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [22Mar2025 21:16:56.300] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukusting'/12105, l='ServerLevel[world]', x=-1266.49, y=71.00, z=-3075.63]
 [22Mar2025 21:17:27.010] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Mar2025 21:17:27.030] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 21:18:07.662] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[22Mar2025 21:18:07.674] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: 2c865b14-cc57-3462-88a0-56205ddefec7
+[22Mar2025 21:18:07.677] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: 116e9c76-7157-3f7d-8106-557b209a5b07
+[22Mar2025 21:18:07.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[22Mar2025 21:18:07.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[22Mar2025 21:18:07.725] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PlagaXNZ lost connection: Server closed
+[22Mar2025 21:18:07.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ left the game
+[22Mar2025 21:18:07.727] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 116e9c76-7157-3f7d-8106-557b209a5b07
+[22Mar2025 21:18:07.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[22Mar2025 21:18:08.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22Mar2025 21:18:09.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[22Mar2025 21:18:09.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22Mar2025 21:18:09.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22Mar2025 21:18:09.770] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Mar2025 21:18:09.790] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Mar2025 21:18:09.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22Mar2025 21:18:09.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[22Mar2025 21:18:09.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22Mar2025 21:18:09.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22Mar2025 21:18:09.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22Mar2025 21:18:10.561] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[22Mar2025 21:18:10.561] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[22Mar2025 21:18:10.561] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[22Mar2025 21:18:10.561] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[22Mar2025 21:18:10.561] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopping IO worker...
+[22Mar2025 21:18:10.765] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopped IO worker!
+[22Mar2025 21:18:10.765] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
