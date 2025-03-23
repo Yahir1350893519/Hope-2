@@ -4255,9 +4255,105 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2025-03-23 01:03:56 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/it_bites": {
+    "criteria": {
+      "killed_mauler": "2025-03-23 01:13:17 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_foliaath": {
+    "criteria": {
+      "foliaath": "2025-03-23 01:15:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-03-23 01:26:23 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/scratched_glass_green2": {
     "criteria": {
       "recipe_condition2": "2025-03-23 01:28:33 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_green_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-03-23 01:28:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-03-23 01:28:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_green_dye": "2025-03-23 01:28:33 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_green2": {
+    "criteria": {
+      "recipe_condition2": "2025-03-23 01:28:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_candle": {
+    "criteria": {
+      "has_green_dye": "2025-03-23 01:28:33 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_green_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-03-23 01:28:33 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/tinted_borderless_glass_green2": {
+    "criteria": {
+      "recipe_condition2": "2025-03-23 01:28:33 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_green2": {
+    "criteria": {
+      "recipe_condition2": "2025-03-23 01:28:33 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_green_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-03-23 01:28:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-03-23 01:28:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-03-23 01:28:33 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "interact": "2025-03-23 01:31:00 +0000"
     },
     "done": true
   },
@@ -4291,63 +4387,15 @@
     },
     "done": true
   },
-  "connectedglass:recipes/misc/clear_glass_green_pane2": {
-    "criteria": {
-      "recipe_condition2": "2025-03-23 01:28:33 +0000"
-    },
-    "done": true
-  },
-  "friendsandfoes:adventure/it_bites": {
-    "criteria": {
-      "killed_mauler": "2025-03-23 01:13:17 +0000"
-    },
-    "done": true
-  },
   "connectedglass:recipes/misc/scratched_glass_light_blue2": {
     "criteria": {
       "recipe_condition1": "2025-03-23 01:59:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_green_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-03-23 01:28:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/green_dye": {
-    "criteria": {
-      "has_cactus": "2025-03-23 01:26:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_green_dye": "2025-03-23 01:28:33 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_green2": {
-    "criteria": {
-      "recipe_condition2": "2025-03-23 01:28:33 +0000"
-    },
-    "done": true
-  },
   "connectedglass:recipes/misc/scratched_glass_orange2": {
     "criteria": {
       "recipe_condition1": "2025-03-23 01:59:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/green_candle": {
-    "criteria": {
-      "has_green_dye": "2025-03-23 01:28:33 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_green_pane2": {
-    "criteria": {
-      "recipe_condition2": "2025-03-23 01:28:33 +0000"
     },
     "done": true
   },
@@ -4375,57 +4423,27 @@
     },
     "done": true
   },
-  "connectedglass:recipes/misc/tinted_borderless_glass_green2": {
-    "criteria": {
-      "recipe_condition2": "2025-03-23 01:28:33 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/guster": {
-    "criteria": {
-      "killed_by": "2025-03-23 01:03:56 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/clear_glass_green2": {
-    "criteria": {
-      "recipe_condition2": "2025-03-23 01:28:33 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/scratched_glass_green_pane2": {
-    "criteria": {
-      "recipe_condition2": "2025-03-23 01:28:33 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/kangaroo": {
-    "criteria": {
-      "interact": "2025-03-23 01:31:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_green_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-03-23 01:28:33 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_foliaath": {
-    "criteria": {
-      "foliaath": "2025-03-23 01:15:26 +0000"
-    },
-    "done": true
-  },
   "connectedglass:recipes/misc/scratched_glass_cyan2": {
     "criteria": {
       "recipe_condition1": "2025-03-23 01:59:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_green_wool": {
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
-      "has_needed_dye": "2025-03-23 01:28:33 +0000"
+      "has_netherite_upgrade_smithing_template": "2025-03-23 02:27:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_shovel_repairing": {
+    "criteria": {
+      "has_diamond_shovel": "2025-03-23 03:01:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-03-23 04:31:55 +0000"
     },
     "done": true
   },
