@@ -551,3 +551,5 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [23Mar2025 06:21:00.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> dale avisa
 [23Mar2025 06:21:27.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot has made the advancement ['Til Death Do Us Part]
 [23Mar2025 06:21:48.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot has made the advancement [Next Generation]
+[23Mar2025 06:35:34.332] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[23Mar2025 06:35:54.503] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
