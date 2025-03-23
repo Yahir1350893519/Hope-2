@@ -4763,3 +4763,127 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [23Mar2025 07:05:46.609] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5036ms or 100 ticks behind
 [23Mar2025 07:07:13.274] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
 [23Mar2025 07:07:13.274] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[23Mar2025 07:07:53.375] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[23Mar2025 07:08:50.820] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Mar2025 07:08:50.866] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Mar2025 07:09:26.603] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/848, l='ServerLevel[world]', x=-2182.46, y=64.00, z=4030.16], dimensionLocationPath overworld
+[23Mar2025 07:09:26.604] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/848, l='ServerLevel[world]', x=-2182.46, y=64.00, z=4030.16] in list []
+[23Mar2025 07:09:26.638] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/848, l='ServerLevel[world]', x=-2182.32, y=64.00, z=4030.02]
+[23Mar2025 07:09:55.174] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[23Mar2025 07:09:55.178] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=867, z=1073200}"
+}
+[23Mar2025 07:09:55.180] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 65 extra bytes: 
+[23Mar2025 07:09:55.181] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "r=GM[f.qfdXt~ L}7w7PdxQ>j\\:T'\\&"
+]
+[23Mar2025 07:09:56.386] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[23Mar2025 07:09:56.387] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=845, z=1073200}"
+}
+[23Mar2025 07:09:56.387] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 22 extra bytes: 
+[23Mar2025 07:09:56.387] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ">a>Yfe_&u:"
+]
+[23Mar2025 07:10:01.440] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[23Mar2025 07:10:01.442] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=908, z=1073200}"
+}
+[23Mar2025 07:10:01.445] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 128 extra bytes: 
+[23Mar2025 07:10:01.447] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "puDYDn5.E.9m` w]?h,YwQ*\\>%o&+/,0/527.ip.gl.ply"
+]
+[23Mar2025 07:10:03.480] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[23Mar2025 07:10:03.482] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=1004, z=1073200}"
+}
+[23Mar2025 07:10:03.483] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 121 extra bytes: 
+[23Mar2025 07:10:03.484] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "|oA1P~,v\" OB;17Qoo,@3C*tq&+/,0/527.ip"
+]
+[23Mar2025 07:10:03.486] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundChatAckPacket  id 3 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[23Mar2025 07:10:03.496] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_244085_": 111
+}
+[23Mar2025 07:10:03.497] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 3 data of 161 extra bytes: 
+[23Mar2025 07:10:03.497] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "A1P~,v\" OB;17Qoo,@3C*tq&+/,0/527.ipgl.ply.gg"
+]
+[23Mar2025 07:10:03.498] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundPlayerAbilitiesPacket  id 28 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[23Mar2025 07:10:03.499] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134254_": false
+}
+[23Mar2025 07:10:03.499] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 28 data of 160 extra bytes: 
+[23Mar2025 07:10:03.499] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "v\" OB;17Qoo,@3C*tq&+/,0/527.ipgl.ply.gg"
+]
+[23Mar2025 07:10:03.503] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundKeepAlivePacket  id 18 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[23Mar2025 07:10:03.520] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134092_": 16708348569968
+}
+[23Mar2025 07:10:03.522] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 18 data of 124 extra bytes: 
+[23Mar2025 07:10:03.522] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "gl.ply.gg+3& >L>Z#/h%>)]{#l,4ZP"
+]
+[23Mar2025 07:10:19.228] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[23Mar2025 07:10:19.229] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=5768192, y=849, z=1122352}"
+}
+[23Mar2025 07:10:19.229] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[23Mar2025 07:10:19.230] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-110, -12, -24, 103, -76, 21, 90, 58, -101, -38, -27]"
+]
+[23Mar2025 07:10:22.424] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[23Mar2025 07:10:22.427] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-11271168, y=807, z=856112}"
+}
+[23Mar2025 07:10:22.427] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 108 extra bytes: 
+[23Mar2025 07:10:22.427] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "vr_~mOA!u8,0+/$(k#'g93=<5/p27.ip."
+]
+[23Mar2025 07:10:33.623] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[23Mar2025 07:13:11.475] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/36696, l='ServerLevel[world]', x=-1246.72, y=68.35, z=-3115.28], dimensionLocationPath overworld
+[23Mar2025 07:13:11.475] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/36696, l='ServerLevel[world]', x=-1246.72, y=68.35, z=-3115.28] in list []
+[23Mar2025 07:13:11.974] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/36696, l='ServerLevel[world]', x=-1246.54, y=68.10, z=-3115.65, removed=DISCARDED]
+[23Mar2025 07:13:45.215] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/4656, l='ServerLevel[world]', x=-1253.73, y=68.00, z=-3116.78], dimensionLocationPath overworld
+[23Mar2025 07:13:45.215] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/4656, l='ServerLevel[world]', x=-1253.73, y=68.00, z=-3116.78] in list []
+[23Mar2025 07:13:45.653] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/4656, l='ServerLevel[world]', x=-1253.73, y=68.00, z=-3116.78]
+[23Mar2025 07:13:50.828] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Mar2025 07:13:50.849] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Mar2025 07:13:53.332] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[23Mar2025 07:13:56.520] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/4656, l='ServerLevel[world]', x=-1249.16, y=69.00, z=-3114.09], dimensionLocationPath overworld
+[23Mar2025 07:13:56.520] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/4656, l='ServerLevel[world]', x=-1249.16, y=69.00, z=-3114.09] in list []
+[23Mar2025 07:13:56.562] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/4656, l='ServerLevel[world]', x=-1249.16, y=69.00, z=-3114.09]
+[23Mar2025 07:13:59.762] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/4656, l='ServerLevel[world]', x=-1249.32, y=69.00, z=-3114.31], dimensionLocationPath overworld
+[23Mar2025 07:13:59.762] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/4656, l='ServerLevel[world]', x=-1249.32, y=69.00, z=-3114.31] in list []
+[23Mar2025 07:14:00.227] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/4656, l='ServerLevel[world]', x=-1249.32, y=69.00, z=-3114.31]
+[23Mar2025 07:14:09.704] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/4656, l='ServerLevel[world]', x=-1256.58, y=70.00, z=-3120.14], dimensionLocationPath overworld
+[23Mar2025 07:14:09.704] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/4656, l='ServerLevel[world]', x=-1256.58, y=70.00, z=-3120.14] in list []
+[23Mar2025 07:14:09.768] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/4656, l='ServerLevel[world]', x=-1256.58, y=70.00, z=-3120.15]
+[23Mar2025 07:17:13.275] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[23Mar2025 07:17:13.275] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
