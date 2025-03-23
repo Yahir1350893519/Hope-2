@@ -4653,3 +4653,26 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [23Mar2025 06:33:53.224] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
 [23Mar2025 06:35:34.332] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
 [23Mar2025 06:35:54.503] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[23Mar2025 06:37:12.467] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[23Mar2025 06:37:13.186] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[23Mar2025 06:37:13.186] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[23Mar2025 06:38:12.417] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Mar2025 06:38:12.436] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Mar2025 06:39:39.747] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/848, l='ServerLevel[world]', x=-2171.27, y=64.00, z=4038.55], dimensionLocationPath overworld
+[23Mar2025 06:39:39.747] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/848, l='ServerLevel[world]', x=-2171.27, y=64.00, z=4038.55] in list []
+[23Mar2025 06:39:44.847] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/848, l='ServerLevel[world]', x=-2171.08, y=64.00, z=4039.86]
+[23Mar2025 06:40:33.475] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[23Mar2025 06:40:58.803] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/4656, l='ServerLevel[world]', x=-1261.70, y=71.00, z=-3049.30], dimensionLocationPath overworld
+[23Mar2025 06:40:58.804] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/4656, l='ServerLevel[world]', x=-1261.70, y=71.00, z=-3049.30] in list []
+[23Mar2025 06:40:59.151] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/4656, l='ServerLevel[world]', x=-1261.70, y=71.00, z=-3049.30]
+[23Mar2025 06:41:11.610] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/4656, l='ServerLevel[world]', x=-1268.50, y=71.00, z=-3049.73], dimensionLocationPath overworld
+[23Mar2025 06:41:11.611] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/4656, l='ServerLevel[world]', x=-1268.50, y=71.00, z=-3049.73] in list []
+[23Mar2025 06:41:11.713] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/4656, l='ServerLevel[world]', x=-1268.30, y=71.00, z=-3049.74]
+[23Mar2025 06:43:12.463] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Mar2025 06:43:12.493] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Mar2025 06:43:53.274] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[23Mar2025 06:46:35.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> e gil
+[23Mar2025 06:46:43.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> q
+[23Mar2025 06:46:58.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> me falta la libreria
+[23Mar2025 06:47:13.224] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[23Mar2025 06:47:13.225] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
