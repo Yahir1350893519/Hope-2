@@ -4280,6 +4280,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-03-22 21:47:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-03-22 21:47:27 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:adventure/it_bites": {
     "criteria": {
       "killed_mauler": "2025-03-22 21:56:51 +0000"
@@ -4292,21 +4304,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/glistering_melon_slice": {
-    "criteria": {
-      "has_melon": "2025-03-22 21:47:27 +0000"
-    },
-    "done": true
-  },
   "mca:grow_adult": {
     "criteria": {
       "baby": "2025-03-22 22:57:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/melon": {
-    "criteria": {
-      "has_melon": "2025-03-22 21:47:27 +0000"
     },
     "done": true
   },
