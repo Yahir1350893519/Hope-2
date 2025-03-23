@@ -533,3 +533,21 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [23Mar2025 06:05:13.265] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 116e9c76-7157-3f7d-8106-557b209a5b07
 [23Mar2025 06:05:14.010] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of PlagaXNZ (18)
 [23Mar2025 06:05:14.014] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to PlagaXNZ
+[23Mar2025 06:06:23.104] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[23Mar2025 06:10:17.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> te imaginas que podamos hacer una guerra de aldeas??
+[23Mar2025 06:11:50.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> te imaginas
+[23Mar2025 06:11:58.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> pero no creo que se pueda
+[23Mar2025 06:12:27.638] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Natalia'/6065, l='ServerLevel[world]', x=-1264.40, y=69.00, z=-3110.67] died, message: 'Natalia was slain by Zombie'
+[23Mar2025 06:12:27.640] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Natalia'/6065, l='ServerLevel[world]', x=-1264.40, y=69.00, z=-3110.67] died: Natalia was slain by Zombie
+[23Mar2025 06:13:51.500] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Aurica}[style={}] has been infected
+[23Mar2025 06:13:55.637] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Aurica'/7187, l='ServerLevel[world]', x=-1260.71, y=68.00, z=-3088.66] died, message: 'Aurica was slain by Zombie'
+[23Mar2025 06:13:55.638] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Aurica'/7187, l='ServerLevel[world]', x=-1260.71, y=68.00, z=-3088.66] died: Aurica was slain by Zombie
+[23Mar2025 06:19:32.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> e gil que desgracia no poder poner agua en la nieve
+[23Mar2025 06:19:42.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> ah no podes??
+[23Mar2025 06:19:52.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> no se vuelve hielo
+[23Mar2025 06:20:29.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> e gil ya vuelvo
+[23Mar2025 06:20:42.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> si no vuelvo es porque tarde
+[23Mar2025 06:20:54.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> mal ahi rey
+[23Mar2025 06:21:00.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> dale avisa
+[23Mar2025 06:21:27.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot has made the advancement ['Til Death Do Us Part]
+[23Mar2025 06:21:48.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot has made the advancement [Next Generation]

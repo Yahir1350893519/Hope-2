@@ -4594,3 +4594,43 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [23Mar2025 06:05:20.399] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/848, l='ServerLevel[world]', x=-2197.51, y=68.00, z=4028.95], dimensionLocationPath overworld
 [23Mar2025 06:05:20.400] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/848, l='ServerLevel[world]', x=-2197.51, y=68.00, z=4028.95] in list []
 [23Mar2025 06:05:20.441] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/848, l='ServerLevel[world]', x=-2197.51, y=68.00, z=4028.76]
+[23Mar2025 06:06:23.104] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[23Mar2025 06:07:13.073] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[23Mar2025 06:07:13.073] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[23Mar2025 06:08:06.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Mar2025 06:08:06.468] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Mar2025 06:10:17.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> te imaginas que podamos hacer una guerra de aldeas??
+[23Mar2025 06:10:33.425] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[23Mar2025 06:11:50.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> te imaginas
+[23Mar2025 06:11:58.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> pero no creo que se pueda
+[23Mar2025 06:12:27.638] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Natalia'/6065, l='ServerLevel[world]', x=-1264.40, y=69.00, z=-3110.67] died, message: 'Natalia was slain by Zombie'
+[23Mar2025 06:12:27.640] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Natalia'/6065, l='ServerLevel[world]', x=-1264.40, y=69.00, z=-3110.67] died: Natalia was slain by Zombie
+[23Mar2025 06:12:39.549] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Jukot'/848, l='ServerLevel[world]', x=-1243.02, y=68.00, z=-3061.24], dimensionLocationPath overworld
+[23Mar2025 06:12:39.549] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Jukot'/848, l='ServerLevel[world]', x=-1243.02, y=68.00, z=-3061.24] in list []
+[23Mar2025 06:12:40.492] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Jukot'/848, l='ServerLevel[world]', x=-1241.75, y=68.00, z=-3060.92]
+[23Mar2025 06:13:06.446] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Mar2025 06:13:06.474] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Mar2025 06:13:51.500] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Aurica}[style={}] has been infected
+[23Mar2025 06:13:53.174] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[23Mar2025 06:13:55.637] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Aurica'/7187, l='ServerLevel[world]', x=-1260.71, y=68.00, z=-3088.66] died, message: 'Aurica was slain by Zombie'
+[23Mar2025 06:13:55.638] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Aurica'/7187, l='ServerLevel[world]', x=-1260.71, y=68.00, z=-3088.66] died: Aurica was slain by Zombie
+[23Mar2025 06:17:13.074] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[23Mar2025 06:17:13.075] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[23Mar2025 06:18:06.604] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Mar2025 06:18:06.624] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Mar2025 06:19:32.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> e gil que desgracia no poder poner agua en la nieve
+[23Mar2025 06:19:42.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> ah no podes??
+[23Mar2025 06:19:52.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> no se vuelve hielo
+[23Mar2025 06:20:17.206] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/4656, l='ServerLevel[world]', x=-1261.70, y=71.00, z=-3049.30], dimensionLocationPath overworld
+[23Mar2025 06:20:17.206] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/4656, l='ServerLevel[world]', x=-1261.70, y=71.00, z=-3049.30] in list []
+[23Mar2025 06:20:18.458] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/4656, l='ServerLevel[world]', x=-1261.70, y=71.00, z=-3049.30]
+[23Mar2025 06:20:29.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> e gil ya vuelvo
+[23Mar2025 06:20:33.445] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[23Mar2025 06:20:42.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> si no vuelvo es porque tarde
+[23Mar2025 06:20:54.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> mal ahi rey
+[23Mar2025 06:21:00.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> dale avisa
+[23Mar2025 06:21:27.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot has made the advancement ['Til Death Do Us Part]
+[23Mar2025 06:21:48.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot has made the advancement [Next Generation]
+[23Mar2025 06:23:06.447] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Mar2025 06:23:06.498] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Mar2025 06:23:53.175] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
