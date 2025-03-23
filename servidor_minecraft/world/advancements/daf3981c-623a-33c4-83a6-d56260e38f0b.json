@@ -2080,6 +2080,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/zanite_chestplate_repairing": {
+    "criteria": {
+      "has_zanite_chestplate": "2025-03-23 07:20:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-03-23 06:44:07 +0000"
@@ -2215,6 +2221,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-03-23 06:44:07 +0000"
+    },
+    "done": true
+  },
+  "mca:merchant": {
+    "criteria": {
+      "baby": "2025-03-23 07:21:35 +0000"
     },
     "done": true
   },
