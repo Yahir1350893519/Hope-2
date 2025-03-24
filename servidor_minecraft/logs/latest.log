@@ -1565,3 +1565,9 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/
 [24Mar2025 19:17:17.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> bien ahi gil
 [24Mar2025 19:17:24.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> y lo podrias usar si te casas pero no se si te casaste ya
 [24Mar2025 19:17:51.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> si yo ya me case
+[24Mar2025 19:24:12.654] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[24Mar2025 19:24:29.784] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2139ms or 42 ticks behind
+[24Mar2025 19:24:54.719] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[24Mar2025 19:27:21.402] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[24Mar2025 19:29:12.198] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[24Mar2025 19:29:32.063] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4868ms or 97 ticks behind

@@ -5448,3 +5448,32 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/
 [24Mar2025 19:20:26.795] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
 [24Mar2025 19:21:04.222] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Mar2025 19:21:04.238] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Mar2025 19:22:10.425] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/104, l='ServerLevel[world]', x=-1257.01, y=71.00, z=-3055.25], dimensionLocationPath overworld
+[24Mar2025 19:22:10.425] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/104, l='ServerLevel[world]', x=-1257.01, y=71.00, z=-3055.25] in list []
+[24Mar2025 19:22:10.776] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/104, l='ServerLevel[world]', x=-1256.01, y=71.00, z=-3053.69]
+[24Mar2025 19:23:46.871] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[24Mar2025 19:24:12.654] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[24Mar2025 19:24:29.784] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2139ms or 42 ticks behind
+[24Mar2025 19:24:54.533] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/104, l='ServerLevel[world]', x=-1241.43, y=70.12, z=-3043.06], dimensionLocationPath overworld
+[24Mar2025 19:24:54.533] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/104, l='ServerLevel[world]', x=-1241.43, y=70.12, z=-3043.06] in list []
+[24Mar2025 19:24:54.719] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[24Mar2025 19:25:07.081] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/104, l='ServerLevel[world]', x=-1235.94, y=68.00, z=-3049.15]
+[24Mar2025 19:26:10.364] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Mar2025 19:26:10.412] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Mar2025 19:26:29.279] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/104, l='ServerLevel[world]', x=-1322.02, y=71.75, z=-3113.97], dimensionLocationPath overworld
+[24Mar2025 19:26:29.279] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/104, l='ServerLevel[world]', x=-1322.02, y=71.75, z=-3113.97] in list []
+[24Mar2025 19:26:29.325] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/104, l='ServerLevel[world]', x=-1322.35, y=71.32, z=-3114.37]
+[24Mar2025 19:26:29.721] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/104, l='ServerLevel[world]', x=-1324.98, y=72.84, z=-3116.97], dimensionLocationPath overworld
+[24Mar2025 19:26:29.721] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/104, l='ServerLevel[world]', x=-1324.98, y=72.84, z=-3116.97] in list []
+[24Mar2025 19:26:31.673] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/104, l='ServerLevel[world]', x=-1335.13, y=71.12, z=-3115.59]
+[24Mar2025 19:26:44.479] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/104, l='ServerLevel[world]', x=-1362.16, y=70.00, z=-3101.56], dimensionLocationPath overworld
+[24Mar2025 19:26:44.479] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/104, l='ServerLevel[world]', x=-1362.16, y=70.00, z=-3101.56] in list []
+[24Mar2025 19:26:44.980] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/104, l='ServerLevel[world]', x=-1363.70, y=70.00, z=-3099.82]
+[24Mar2025 19:27:06.861] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[24Mar2025 19:27:21.402] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[24Mar2025 19:29:12.198] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[24Mar2025 19:29:32.063] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4868ms or 97 ticks behind
+[24Mar2025 19:30:26.745] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[24Mar2025 19:30:26.845] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[24Mar2025 19:31:19.132] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Mar2025 19:31:19.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
