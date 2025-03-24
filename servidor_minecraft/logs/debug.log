@@ -4531,3 +4531,12 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/
 [24Mar2025 17:28:08.210] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/104, l='ServerLevel[world]', x=-1338.94, y=71.00, z=-3117.09], dimensionLocationPath overworld
 [24Mar2025 17:28:08.210] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/104, l='ServerLevel[world]', x=-1338.94, y=71.00, z=-3117.09] in list []
 [24Mar2025 17:28:08.260] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/104, l='ServerLevel[world]', x=-1338.93, y=71.00, z=-3117.24]
+[24Mar2025 17:30:26.247] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[24Mar2025 17:30:26.346] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[24Mar2025 17:30:39.767] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Mar2025 17:30:39.797] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Mar2025 17:33:46.496] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[24Mar2025 17:35:39.783] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Mar2025 17:35:39.807] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Mar2025 17:37:06.445] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[24Mar2025 17:38:38.117] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Rodion}[style={}] has been infected
