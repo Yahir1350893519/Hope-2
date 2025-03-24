@@ -1571,3 +1571,13 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/
 [24Mar2025 19:27:21.402] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
 [24Mar2025 19:29:12.198] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
 [24Mar2025 19:29:32.063] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4868ms or 97 ticks behind
+[24Mar2025 19:32:17.527] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[24Mar2025 19:32:57.810] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[24Mar2025 19:33:53.901] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[24Mar2025 19:38:33.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PlagaXNZ moved too quickly! -9.497421784353719,1.8229914290304237,3.6713061505638507
+[24Mar2025 19:39:06.897] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[24Mar2025 19:41:26.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> aca venden aldeanos a 5
+[24Mar2025 19:41:37.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> y salen hombres
+[24Mar2025 19:41:43.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> el ocultista
+[24Mar2025 19:41:55.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> D1 pa
+[24Mar2025 19:42:00.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> ya traigo
