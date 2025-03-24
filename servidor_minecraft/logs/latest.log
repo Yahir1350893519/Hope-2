@@ -324,3 +324,6 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [24Mar2025 12:41:17.261] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
 [24Mar2025 12:43:15.535] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
 [24Mar2025 12:43:34.851] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4318ms or 86 ticks behind
+[24Mar2025 12:46:45.033] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2550ms or 51 ticks behind
+[24Mar2025 12:54:56.797] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Petru'/649, l='ServerLevel[world]', x=-1238.12, y=69.00, z=-3057.57] died, message: 'Petru suffocated in a wall'
+[24Mar2025 12:54:56.798] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Petru'/649, l='ServerLevel[world]', x=-1238.12, y=69.00, z=-3057.57] died: Petru suffocated in a wall
