@@ -1593,3 +1593,4 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/
 [24Mar2025 19:50:38.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ left the game
 [24Mar2025 19:50:38.680] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 116e9c76-7157-3f7d-8106-557b209a5b07
 [24Mar2025 19:50:38.689] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PlagaXNZ
+[24Mar2025 19:52:53.901] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
