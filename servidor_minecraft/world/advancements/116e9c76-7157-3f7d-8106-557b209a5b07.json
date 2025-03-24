@@ -25,6 +25,7 @@
       "minecraft:river": "2025-03-18 03:58:54 +0000",
       "minecraft:lukewarm_ocean": "2025-03-23 00:56:23 +0000",
       "minecraft:snowy_plains": "2025-03-18 19:09:02 +0000",
+      "minecraft:stony_shore": "2025-03-24 17:07:05 +0000",
       "minecraft:dripstone_caves": "2025-03-18 04:28:49 +0000",
       "minecraft:snowy_taiga": "2025-03-18 19:35:42 +0000",
       "minecraft:grove": "2025-03-19 23:49:03 +0000",
@@ -40,6 +41,7 @@
       "minecraft:snowy_beach": "2025-03-19 23:53:38 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-03-23 00:57:17 +0000",
       "minecraft:flower_forest": "2025-03-18 15:14:29 +0000",
+      "minecraft:frozen_peaks": "2025-03-24 17:09:05 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-18 04:20:42 +0000",
       "minecraft:meadow": "2025-03-18 23:46:22 +0000",
       "minecraft:savanna": "2025-03-22 21:59:15 +0000",
@@ -4447,9 +4449,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+  "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
-      "has_coal_ore": "2025-03-24 14:04:19 +0000"
+      "has_packed_ice": "2025-03-24 13:53:19 +0000"
     },
     "done": true
   },
@@ -4459,15 +4461,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blue_ice": {
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
     "criteria": {
-      "has_packed_ice": "2025-03-24 13:53:19 +0000"
+      "has_coal_ore": "2025-03-24 14:04:19 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
     "criteria": {
-      "has_cornflower": "2025-03-24 15:50:45 +0000"
+      "has_coal_ore": "2025-03-24 14:04:19 +0000"
     },
     "done": true
   },
@@ -4477,9 +4479,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
-      "has_coal_ore": "2025-03-24 14:04:19 +0000"
+      "has_cornflower": "2025-03-24 15:50:45 +0000"
     },
     "done": true
   },
