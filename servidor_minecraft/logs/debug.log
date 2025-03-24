@@ -5402,3 +5402,49 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/
 [24Mar2025 19:11:04.159] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Mar2025 19:11:04.181] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [24Mar2025 19:11:23.006] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/104, l='ServerLevel[world]', x=-1284.75, y=72.73, z=-3071.19]
+[24Mar2025 19:12:10.909] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/104, l='ServerLevel[world]', x=-1349.01, y=71.00, z=-3060.39], dimensionLocationPath overworld
+[24Mar2025 19:12:10.909] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/104, l='ServerLevel[world]', x=-1349.01, y=71.00, z=-3060.39] in list []
+[24Mar2025 19:12:12.870] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/104, l='ServerLevel[world]', x=-1349.75, y=71.00, z=-3058.36]
+[24Mar2025 19:13:12.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> e gil aca se te esta enfermando un aldeano
+[24Mar2025 19:13:22.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> cual?
+[24Mar2025 19:13:46.795] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[24Mar2025 19:14:12.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> este?
+[24Mar2025 19:14:27.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> si
+[24Mar2025 19:14:46.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> lo dejo en la enfermeria o que hago?
+[24Mar2025 19:14:57.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> dale una manzana de oro
+[24Mar2025 19:15:14.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> como regalo?
+[24Mar2025 19:15:16.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> e gil aca se te murio un aldeano
+[24Mar2025 19:15:20.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> si gil
+[24Mar2025 19:15:26.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> si ya se gi
+[24Mar2025 19:15:35.809] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/104, l='ServerLevel[world]', x=-1279.22, y=69.00, z=-3036.42], dimensionLocationPath overworld
+[24Mar2025 19:15:35.809] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/104, l='ServerLevel[world]', x=-1279.22, y=69.00, z=-3036.42] in list []
+[24Mar2025 19:15:35.862] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/104, l='ServerLevel[world]', x=-1279.22, y=69.00, z=-3036.42]
+[24Mar2025 19:15:43.014] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/104, l='ServerLevel[world]', x=-1279.22, y=69.00, z=-3036.42], dimensionLocationPath overworld
+[24Mar2025 19:15:43.014] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/104, l='ServerLevel[world]', x=-1279.22, y=69.00, z=-3036.42] in list []
+[24Mar2025 19:15:43.067] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/104, l='ServerLevel[world]', x=-1279.22, y=69.00, z=-3036.42]
+[24Mar2025 19:16:04.165] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Mar2025 19:16:04.192] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Mar2025 19:16:14.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> e gil veni a ver
+[24Mar2025 19:16:16.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jukot has made the advancement [A Seedy Place]
+[24Mar2025 19:16:39.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> hice el lugar
+[24Mar2025 19:16:49.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> lastima el mini lago
+[24Mar2025 19:16:52.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> esta hermoso :)
+[24Mar2025 19:16:59.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> me falta bastante el lago
+[24Mar2025 19:17:06.796] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[24Mar2025 19:17:07.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> aca sera el lugar gil
+[24Mar2025 19:17:17.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> bien ahi gil
+[24Mar2025 19:17:24.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> y lo podrias usar si te casas pero no se si te casaste ya
+[24Mar2025 19:17:51.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> si yo ya me case
+[24Mar2025 19:17:52.070] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/104, l='ServerLevel[world]', x=-1271.70, y=70.00, z=-3129.91], dimensionLocationPath overworld
+[24Mar2025 19:17:52.070] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/104, l='ServerLevel[world]', x=-1271.70, y=70.00, z=-3129.91] in list []
+[24Mar2025 19:17:52.268] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/104, l='ServerLevel[world]', x=-1271.30, y=70.00, z=-3129.65]
+[24Mar2025 19:18:22.065] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/104, l='ServerLevel[world]', x=-1225.28, y=56.77, z=-3114.20], dimensionLocationPath overworld
+[24Mar2025 19:18:22.065] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/104, l='ServerLevel[world]', x=-1225.28, y=56.77, z=-3114.20] in list []
+[24Mar2025 19:18:27.618] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/104, l='ServerLevel[world]', x=-1224.69, y=47.00, z=-3106.30]
+[24Mar2025 19:19:28.211] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/104, l='ServerLevel[world]', x=-1215.78, y=48.00, z=-3100.34], dimensionLocationPath overworld
+[24Mar2025 19:19:28.211] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/104, l='ServerLevel[world]', x=-1215.78, y=48.00, z=-3100.34] in list []
+[24Mar2025 19:19:29.409] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/104, l='ServerLevel[world]', x=-1215.84, y=48.00, z=-3100.71]
+[24Mar2025 19:20:26.696] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[24Mar2025 19:20:26.795] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[24Mar2025 19:21:04.222] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Mar2025 19:21:04.238] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
