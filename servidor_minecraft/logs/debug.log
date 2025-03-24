@@ -4511,3 +4511,23 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
 [24Mar2025 17:17:06.345] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
 [24Mar2025 17:18:46.427] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[24Mar2025 17:20:26.246] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[24Mar2025 17:20:26.296] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[24Mar2025 17:20:39.758] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Mar2025 17:20:39.790] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Mar2025 17:22:45.854] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/104, l='ServerLevel[world]', x=-1246.94, y=31.00, z=-2948.80], dimensionLocationPath overworld
+[24Mar2025 17:22:45.854] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/104, l='ServerLevel[world]', x=-1246.94, y=31.00, z=-2948.80] in list []
+[24Mar2025 17:22:45.906] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/104, l='ServerLevel[world]', x=-1246.94, y=31.00, z=-2948.80]
+[24Mar2025 17:22:46.255] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/104, l='ServerLevel[world]', x=-1246.94, y=31.00, z=-2948.80], dimensionLocationPath overworld
+[24Mar2025 17:22:46.255] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/104, l='ServerLevel[world]', x=-1246.94, y=31.00, z=-2948.80] in list []
+[24Mar2025 17:22:49.563] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/104, l='ServerLevel[world]', x=-1248.89, y=32.00, z=-2949.19]
+[24Mar2025 17:23:46.495] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[24Mar2025 17:25:39.797] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Mar2025 17:25:39.820] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Mar2025 17:26:42.764] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/104, l='ServerLevel[world]', x=-1281.37, y=71.50, z=-3071.42], dimensionLocationPath overworld
+[24Mar2025 17:26:42.764] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/104, l='ServerLevel[world]', x=-1281.37, y=71.50, z=-3071.42] in list []
+[24Mar2025 17:27:06.396] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[24Mar2025 17:27:28.215] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/104, l='ServerLevel[world]', x=-1235.95, y=68.00, z=-3117.31]
+[24Mar2025 17:28:08.210] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/104, l='ServerLevel[world]', x=-1338.94, y=71.00, z=-3117.09], dimensionLocationPath overworld
+[24Mar2025 17:28:08.210] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/104, l='ServerLevel[world]', x=-1338.94, y=71.00, z=-3117.09] in list []
+[24Mar2025 17:28:08.260] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/104, l='ServerLevel[world]', x=-1338.93, y=71.00, z=-3117.24]
