@@ -1581,3 +1581,15 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/
 [24Mar2025 19:41:43.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PlagaXNZ> el ocultista
 [24Mar2025 19:41:55.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> D1 pa
 [24Mar2025 19:42:00.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jukot> ya traigo
+[24Mar2025 19:47:26.572] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1355, y=72, z=-3114} BlockPos{x=-1355, y=71, z=-3113}
+[24Mar2025 19:47:37.233] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1371, y=72, z=-3096} BlockPos{x=-1372, y=71, z=-3095}
+[24Mar2025 19:47:37.285] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1371, y=72, z=-3096} BlockPos{x=-1372, y=71, z=-3095}
+[24Mar2025 19:47:37.334] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1371, y=72, z=-3096} BlockPos{x=-1372, y=71, z=-3095}
+[24Mar2025 19:48:48.319] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1346, y=74, z=-3034} BlockPos{x=-1347, y=73, z=-3034}
+[24Mar2025 19:48:48.320] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1346, y=74, z=-3034} BlockPos{x=-1347, y=73, z=-3034}
+[24Mar2025 19:48:48.321] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1346, y=74, z=-3034} BlockPos{x=-1347, y=73, z=-3034}
+[24Mar2025 19:48:48.340] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1345, y=74, z=-3034} BlockPos{x=-1347, y=73, z=-3034}
+[24Mar2025 19:50:38.677] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PlagaXNZ lost connection: Disconnected
+[24Mar2025 19:50:38.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ left the game
+[24Mar2025 19:50:38.680] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 116e9c76-7157-3f7d-8106-557b209a5b07
+[24Mar2025 19:50:38.689] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PlagaXNZ
