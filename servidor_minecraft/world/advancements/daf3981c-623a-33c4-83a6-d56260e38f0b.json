@@ -2068,45 +2068,15 @@
     },
     "done": true
   },
-  "farm_and_charm:recipes/window_sill": {
+  "minecraft:recipes/misc/black_dye": {
     "criteria": {
-      "has_flower_pot": "2025-03-23 06:08:10 +0000"
+      "has_ink_sac": "2025-03-23 05:59:26 +0000"
     },
     "done": true
   },
-  "mca:baby": {
+  "minecraft:recipes/brewing/cauldron": {
     "criteria": {
-      "baby": "2025-03-23 06:21:48 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/zanite_chestplate_repairing": {
-    "criteria": {
-      "has_zanite_chestplate": "2025-03-23 07:20:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_torch": {
-    "criteria": {
-      "has_redstone": "2025-03-23 06:44:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/clock": {
-    "criteria": {
-      "has_redstone": "2025-03-23 06:44:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bricks": {
-    "criteria": {
-      "has_brick": "2025-03-23 06:08:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-03-23 06:51:51 +0000"
+      "has_the_recipe": "2025-03-23 06:04:32 +0000"
     },
     "done": true
   },
@@ -2116,123 +2086,21 @@
     },
     "done": true
   },
-  "mca:marriage": {
+  "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
-      "iron": "2025-03-23 06:21:27 +0000"
+      "has_blaze_rod": "2025-03-23 06:04:56 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_blue_bed": {
+  "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
-      "has_light_blue_wool": "2025-03-23 06:28:38 +0000"
+      "has_blaze_rod": "2025-03-23 06:04:56 +0000"
     },
     "done": true
   },
-  "aether:recipes/redstone/skyroot_piston": {
+  "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
-      "has_redstone": "2025-03-23 06:44:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-03-23 06:51:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-03-23 06:51:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
-    "criteria": {
-      "has_porkchop": "2025-03-23 06:24:54 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/redstone/skyroot_note_block": {
-    "criteria": {
-      "has_redstone": "2025-03-23 06:44:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-03-23 06:17:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/mangrove_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-03-23 06:51:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_banner": {
-    "criteria": {
-      "has_light_blue_wool": "2025-03-23 06:28:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/note_block": {
-    "criteria": {
-      "has_redstone": "2025-03-23 06:44:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-03-23 06:51:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/target": {
-    "criteria": {
-      "has_redstone": "2025-03-23 06:44:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_carpet": {
-    "criteria": {
-      "has_cyan_wool": "2025-03-23 06:28:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/cherry_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-03-23 06:51:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-03-23 06:51:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/paper": {
-    "criteria": {
-      "has_reeds": "2025-03-23 06:29:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/compass": {
-    "criteria": {
-      "has_redstone": "2025-03-23 06:44:07 +0000"
-    },
-    "done": true
-  },
-  "mca:merchant": {
-    "criteria": {
-      "baby": "2025-03-23 07:21:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_bed": {
-    "criteria": {
-      "has_cyan_wool": "2025-03-23 06:28:04 +0000"
+      "has_brick": "2025-03-23 06:08:03 +0000"
     },
     "done": true
   },
@@ -2242,21 +2110,45 @@
     },
     "done": true
   },
-  "aether:recipes/tools/iron_shovel_repairing": {
+  "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
-      "has_iron_shovel": "2025-03-23 07:25:08 +0000"
+      "has_brick": "2025-03-23 06:08:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+  "farm_and_charm:recipes/window_sill": {
     "criteria": {
-      "has_boat": "2025-03-23 06:51:51 +0000"
+      "has_flower_pot": "2025-03-23 06:08:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef_from_smoking": {
+  "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
-      "has_beef": "2025-03-23 06:57:27 +0000"
+      "has_poppy": "2025-03-23 06:17:16 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2025-03-23 06:17:16 +0000"
+    },
+    "done": true
+  },
+  "mca:marriage": {
+    "criteria": {
+      "iron": "2025-03-23 06:21:27 +0000"
+    },
+    "done": true
+  },
+  "mca:baby": {
+    "criteria": {
+      "baby": "2025-03-23 06:21:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-03-23 06:24:54 +0000"
     },
     "done": true
   },
@@ -2266,9 +2158,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/bamboo_chest_raft": {
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
-      "has_boat": "2025-03-23 06:51:51 +0000"
+      "has_porkchop": "2025-03-23 06:24:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2025-03-23 06:28:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2025-03-23 06:28:04 +0000"
     },
     "done": true
   },
@@ -2278,27 +2182,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/black_dye": {
+  "aether:recipes/combat/blue_cape_cyan_wool": {
     "criteria": {
-      "has_ink_sac": "2025-03-23 05:59:26 +0000"
+      "has_cyan_wool": "2025-03-23 06:28:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2025-03-23 06:28:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2025-03-23 06:28:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2025-03-23 06:28:38 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/blue_cape_light_blue_wool": {
+    "criteria": {
+      "has_light_blue_wool": "2025-03-23 06:28:38 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/blue_bed": {
     "criteria": {
       "has_blue_wool": "2025-03-23 06:29:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
-    "criteria": {
-      "has_sugar_cane": "2025-03-23 06:29:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dropper": {
-    "criteria": {
-      "has_redstone": "2025-03-23 06:44:07 +0000"
     },
     "done": true
   },
@@ -2314,15 +2230,69 @@
     },
     "done": true
   },
-  "packedup:recipes/misc/basic_from_chest": {
+  "minecraft:recipes/decorations/blue_banner": {
     "criteria": {
-      "recipe_condition": "2025-03-23 06:44:48 +0000"
+      "has_blue_wool": "2025-03-23 06:29:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/cauldron": {
+  "minecraft:recipes/misc/paper": {
     "criteria": {
-      "has_the_recipe": "2025-03-23 06:04:32 +0000"
+      "has_reeds": "2025-03-23 06:29:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-03-23 06:29:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-03-23 06:44:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-03-23 06:44:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_piston": {
+    "criteria": {
+      "has_redstone": "2025-03-23 06:44:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_note_block": {
+    "criteria": {
+      "has_redstone": "2025-03-23 06:44:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-03-23 06:44:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-03-23 06:44:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-03-23 06:44:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-03-23 06:44:07 +0000"
     },
     "done": true
   },
@@ -2332,45 +2302,69 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/blaze_powder": {
+  "minecraft:recipes/redstone/piston": {
     "criteria": {
-      "has_blaze_rod": "2025-03-23 06:04:56 +0000"
+      "has_redstone": "2025-03-23 06:44:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_blue_carpet": {
+  "packedup:recipes/misc/basic_from_chest": {
     "criteria": {
-      "has_light_blue_wool": "2025-03-23 06:28:38 +0000"
+      "recipe_condition": "2025-03-23 06:44:48 +0000"
     },
     "done": true
   },
-  "mca:recipes/misc/bouquet": {
+  "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
-      "has_item": "2025-03-23 06:17:16 +0000"
+      "has_boat": "2025-03-23 06:51:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+  "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
-      "has_porkchop": "2025-03-23 06:24:54 +0000"
+      "has_boat": "2025-03-23 06:51:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/flower_pot": {
+  "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
-      "has_brick": "2025-03-23 06:08:03 +0000"
+      "has_boat": "2025-03-23 06:51:51 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_banner": {
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
-      "has_blue_wool": "2025-03-23 06:29:18 +0000"
+      "has_boat": "2025-03-23 06:51:51 +0000"
     },
     "done": true
   },
-  "aether:recipes/combat/blue_cape_light_blue_wool": {
+  "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
-      "has_light_blue_wool": "2025-03-23 06:28:38 +0000"
+      "has_boat": "2025-03-23 06:51:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-23 06:51:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-23 06:51:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-23 06:51:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-03-23 06:51:51 +0000"
     },
     "done": true
   },
@@ -2380,15 +2374,9 @@
     },
     "done": true
   },
-  "aether:recipes/combat/blue_cape_cyan_wool": {
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
-      "has_cyan_wool": "2025-03-23 06:28:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/brewing_stand": {
-    "criteria": {
-      "has_blaze_rod": "2025-03-23 06:04:56 +0000"
+      "has_beef": "2025-03-23 06:57:27 +0000"
     },
     "done": true
   },
@@ -2398,15 +2386,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/piston": {
-    "criteria": {
-      "has_redstone": "2025-03-23 06:44:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-03-23 06:57:27 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_chestplate_repairing": {
+    "criteria": {
+      "has_zanite_chestplate": "2025-03-23 07:20:22 +0000"
+    },
+    "done": true
+  },
+  "mca:merchant": {
+    "criteria": {
+      "baby": "2025-03-23 07:21:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_shovel_repairing": {
+    "criteria": {
+      "has_iron_shovel": "2025-03-23 07:25:08 +0000"
     },
     "done": true
   },
