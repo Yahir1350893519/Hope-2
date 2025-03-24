@@ -1075,3 +1075,4 @@ java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23215!/:?]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[24Mar2025 18:27:23.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ fell from a high place
