@@ -4453,3 +4453,34 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [24Mar2025 13:53:28.405] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [24Mar2025 13:54:45.784] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
 [24Mar2025 13:57:16.049] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Alexei}[style={}] has been infected
+[24Mar2025 13:58:05.784] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[24Mar2025 13:58:05.784] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[24Mar2025 13:58:28.349] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Mar2025 13:58:28.368] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Mar2025 14:01:26.133] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[24Mar2025 14:01:41.283] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/13234, l='ServerLevel[world]', x=-1377.61, y=69.25, z=-3088.48], dimensionLocationPath overworld
+[24Mar2025 14:01:41.283] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/13234, l='ServerLevel[world]', x=-1377.61, y=69.25, z=-3088.48] in list []
+[24Mar2025 14:01:41.784] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/13234, l='ServerLevel[world]', x=-1377.55, y=69.01, z=-3088.88, removed=DISCARDED]
+[24Mar2025 14:01:42.648] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/107, l='ServerLevel[world]', x=-1377.32, y=69.64, z=-3087.86], dimensionLocationPath overworld
+[24Mar2025 14:01:42.649] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/107, l='ServerLevel[world]', x=-1377.32, y=69.64, z=-3087.86] in list []
+[24Mar2025 14:01:43.345] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/107, l='ServerLevel[world]', x=-1377.67, y=69.00, z=-3088.27]
+[24Mar2025 14:03:28.369] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Mar2025 14:03:28.388] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Mar2025 14:04:45.833] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[24Mar2025 14:05:07.501] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['PlagaXNZ'/107, l='ServerLevel[world]', x=-1290.64, y=71.00, z=-3054.55], dimensionLocationPath overworld
+[24Mar2025 14:05:07.501] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['PlagaXNZ'/107, l='ServerLevel[world]', x=-1290.64, y=71.00, z=-3054.55] in list []
+[24Mar2025 14:05:14.753] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['PlagaXNZ'/107, l='ServerLevel[world]', x=-1319.90, y=72.00, z=-3074.75]
+[24Mar2025 14:08:05.833] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[24Mar2025 14:08:05.833] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[24Mar2025 14:08:28.347] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Mar2025 14:08:28.369] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Mar2025 14:08:38.150] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1346, y=62, z=-3210} BlockPos{x=-1348, y=62, z=-3210}
+[24Mar2025 14:08:57.360] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1331, y=62, z=-3215} BlockPos{x=-1330, y=62, z=-3214}
+[24Mar2025 14:11:26.135] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[24Mar2025 14:13:28.342] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Mar2025 14:13:28.365] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Mar2025 14:14:45.883] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[24Mar2025 14:17:42.390] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Teofil'/648, l='ServerLevel[world]', x=-1281.29, y=-40.00, z=-3075.29] died, message: 'Teofil hit the ground too hard'
+[24Mar2025 14:17:42.391] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Teofil'/648, l='ServerLevel[world]', x=-1281.29, y=-40.00, z=-3075.29] died: Teofil was doomed to fall by Zombie
+[24Mar2025 14:18:05.834] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[24Mar2025 14:18:05.835] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!

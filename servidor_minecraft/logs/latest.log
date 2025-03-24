@@ -594,3 +594,7 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
   "[35, 98, -46, 44, -87, 28, 89, 10, 41, 79, -46]"
 ]
 [24Mar2025 13:57:16.049] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Alexei}[style={}] has been infected
+[24Mar2025 14:08:38.150] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1346, y=62, z=-3210} BlockPos{x=-1348, y=62, z=-3210}
+[24Mar2025 14:08:57.360] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1331, y=62, z=-3215} BlockPos{x=-1330, y=62, z=-3214}
+[24Mar2025 14:17:42.390] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Teofil'/648, l='ServerLevel[world]', x=-1281.29, y=-40.00, z=-3075.29] died, message: 'Teofil hit the ground too hard'
+[24Mar2025 14:17:42.391] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Teofil'/648, l='ServerLevel[world]', x=-1281.29, y=-40.00, z=-3075.29] died: Teofil was doomed to fall by Zombie
