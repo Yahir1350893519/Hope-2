@@ -593,3 +593,4 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
   "<partial numeric data>",
   "[35, 98, -46, 44, -87, 28, 89, 10, 41, 79, -46]"
 ]
+[24Mar2025 13:57:16.049] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Alexei}[style={}] has been infected
