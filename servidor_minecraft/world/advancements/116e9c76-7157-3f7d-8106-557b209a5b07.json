@@ -4485,5 +4485,11 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/froststalker_kill": {
+    "criteria": {
+      "ex": "2025-03-24 18:05:55 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
