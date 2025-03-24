@@ -1932,3 +1932,4 @@ java.lang.IllegalStateException: Nesting problem.
   "<partial numeric data>",
   "[0, 0, 0, 0, 1, 0, 0, 64, 0, 0, 0, 0, 32, 32, 32, 32, 32, 32, 32, 32, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, -1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
 ]
+[24Mar2025 16:09:00.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PlagaXNZ: Set the time to 1000]
