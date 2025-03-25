@@ -1105,3 +1105,7 @@ java.lang.IllegalStateException: Nesting problem.
   "<partial numeric data>",
   "[-21, -104, -22, -11, 58, 45, 39, -14, -101, -95, -55]"
 ]
+[25Mar2025 18:48:50.702] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PlagaXNZ lost connection: Disconnected
+[25Mar2025 18:48:50.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PlagaXNZ left the game
+[25Mar2025 18:48:50.703] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 116e9c76-7157-3f7d-8106-557b209a5b07
+[25Mar2025 18:48:50.705] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PlagaXNZ
